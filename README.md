@@ -9,8 +9,9 @@ Welcome to my little corner of the tech world! I'm Skyla — an AI-driven cybers
 - **Specializations**: Cybersecurity, AI Integration, Social Media Marketing, and XR Technology  
 - **Certifications & Courses**:  
   - [Python 1 Certification](https://www.credly.com/badges/8a82f4d0-b3a9-4829-958f-5fc198227ece/public_url) 🐍  
-  - [XR Certification](https://www.credly.com/badges/993694a8-1bea-47e2-bace-4cd81b2012f4/public_url) 🕶️  
-  - Python 2, AI for the Workplace, and CMMC — in progress! 📚🚀  
+  - [XR Certification](https://www.credly.com/badges/993694a8-1bea-47e2-bace-4cd81b2012f4/public_url) 🕶️
+  - [Python 2 certification]([https://www.credly.com/badges/993694a8-1bea-47e2-bace-4cd81b2012f4/public_url](https://www.credly.com/badges/e384fc13-78a2-4a70-b364-dba1e88ea252/public_url)) 
+  - CMMC — in progress! 📚🚀  
 - **Background**: My roots are in customer relations, team management, and operational efficiency, giving me a unique edge in understanding both the tech and human elements of IT solutions.
 
 ## 💻 Tech Stack & Skills
