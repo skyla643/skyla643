@@ -11,7 +11,6 @@ Welcome to my corner of the tech world! I'm Skyla — an AI-driven cybersecurity
   - [Python 2](https://www.credly.com/badges/e384fc13-78a2-4a70-b364-dba1e88ea252/public_url) 🐍  
   - [XR](https://www.credly.com/badges/993694a8-1bea-47e2-bace-4cd81b2012f4/public_url) 🕶️  
   - [AI for the Workplace](https://www.credly.com/badges/7958b31e-b8a5-44c9-9522-4a2d175a4408/public_url) 🤖  
-  - **AI Certification from OpenAI** 📈  
   - CMMC — in progress 📚🚀  
 - **Background**: My experience in customer relations and team management brings a unique perspective to IT and cybersecurity solutions.
 
