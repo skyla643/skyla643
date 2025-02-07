@@ -10,7 +10,7 @@ To me, hacking is an art, a philosophy, and a way of understanding the digital a
 
 ## 🚀 **Join My Hacker Community on Telegram!**
 
-🔗 🌐 [Click here to join our world](#) *(Insert actual Telegram link)*
+🔗 🌐 [Click here to join our world](https://t.me/+mk9OYOUB-NExYTgx)
 
 Explore the depths of hacking, cybersecurity, and tech innovation:
 
@@ -91,8 +91,8 @@ Hacking is an **art**, a **mindset**, and a **way of life**. It’s about **unde
 
 ## 📢 **Connect With Me**
 
-🔗 **Telegram:** 🌐 [Join the Hacker Community](#) *(Insert actual Telegram link)*\
-💻 **GitHub:** [Skyla643](https://github.com/skyla643)\
+🔗 **Telegram:** 🌐 [Join the Hacker Community](https://t.me/+mk9OYOUB-NExYTgx)  
+💻 **GitHub:** [Skyla643](https://github.com/skyla643)  
 🚀 **Projects:** Always innovating, always building.
 
 ---
