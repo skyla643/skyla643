@@ -91,8 +91,7 @@ Hacking is an **art**, a **mindset**, and a **way of life**. It’s about **unde
 
 ## 📢 **Connect With Me**
 
-🔗 **Telegram:** 🌐 [Join the Hacker Community](https://t.me/+mk9OYOUB-NExYTgx)  
-💻 **GitHub:** [Skyla643](https://github.com/skyla643)  
+🔗 **Telegram:** 🌐 [Join the Hacker Community](https://t.me/+mk9OYOUB-NExYTgx)    
 🚀 **Projects:** Always innovating, always building.
 
 ---
