@@ -1,6 +1,6 @@
 💻 **Skyla's Hacker Mind Palace** 💻
 
-Welcome to my world. I am **Skyla Miranda Reyes**—a **grey hat hacker, cybersecurity visionary, and the CEO of Emrald**. My mission is simple: **redefine cybersecurity, innovate, and push hacking to its limits** while embracing both the beauty and chaos of technology.
+Welcome to my world. I am **Skyla**—a **grey hat hacker, cybersecurity visionary, and the CEO of Emrald**. My mission is simple: **redefine cybersecurity, innovate, and push hacking to its limits** while embracing both the beauty and chaos of technology.
 
 > *"We create our own reality, and within it, we find both beauty and chaos."* — Hannibal Lecter
 
