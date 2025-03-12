@@ -24,8 +24,19 @@ I take pride in giving you the tools to move **fast, smart, and unseen**.
 
 🔗 **Website Preview:** *Coming Soon*  
 
+### **[Hacker’s Book](https://skyla643.github.io/Hackers-book/)** 📖  
+Step into the **ultimate hacker hang-out**—where hacking meets **innovation** with a **social circle**.  
+
+🔹 **Real-Time Collaboration** – Live coding, interactive problem-solving, and seamless teamwork.  
+🔹 **Cybersecurity Education** – Tutorials, CTFs, and hands-on learning.  
+🔹 **Community-Driven** – Forums, events, hackathons, and a reputation system to connect hackers worldwide.  
+
+🔗 **Explore it here:** [Hacker’s Book](https://skyla643.github.io/Hackers-book/)  
+
+🔗 **Beta Launch Coming Soon!**  
+
 ---
 
 ## **The Philosophy**  
 This isn’t just hacking—it’s **control. Understanding. Creation.**  
-**Fear the world, or make it fear you.** 
+**Fear the world, or make it fear you.**  
