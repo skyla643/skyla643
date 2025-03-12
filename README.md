@@ -5,13 +5,6 @@
 ### **Who Am I?**  
 Grey Hat Hacker | Cybersecurity Architect | CEO & Creator of **Emrald**  
 
-### **Certifications**  
-- [Python 1](https://www.credly.com/badges/8a82f4d0-b3a9-4829-958f-5fc198227ece/public_url) 🐍  
-- [Python 2](https://www.credly.com/badges/e384fc13-78a2-4a70-b364-dba1e88ea252/public_url) 🐍  
-- [XR](https://www.credly.com/badges/993694a8-1bea-47e2-bace-4cd81b2012f4/public_url) 🕶️  
-- [AI for the Workplace](https://www.credly.com/badges/7958b31e-b8a5-44c9-9522-4a2d175a4408/public_url) 🤖  
-- **CMMC** 📚 *(Coming soon)*  
-
 ---
 
 ## **Projects in Motion**  
