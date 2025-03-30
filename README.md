@@ -1,19 +1,20 @@
-# 💻 Skyla's Hacker Mind Palace 💻  
-*"We create our own reality, and within it, we find both beauty and chaos."*  
-— **Hannibal Lecter**
+<h1 align="center" style="font-family:'UnifrakturCook', serif; color:#7B1E1E;">💻 Skyla's Hacker Mind Palace 💻</h1>  
+<p align="center"><em>"We create our own reality, and within it, we find both beauty and chaos."</em><br>— <strong>Hannibal Lecter</strong></p>
 
-![Astra – The Face of Emrald](https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png)  
-> *Astra watches over the Domain. She is not human. She is beyond.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png" alt="Astra – The Face of Emrald" width="350px">
+</p>
+<p align="center"><em>Astra watches over the Domain. She is not human. She is beyond.</em></p>
 
 ---
 
-### 👤 **Who Am I?**  
+### 👤 <span style="color:#B4B4B4;">**Who Am I?**</span>  
 **Grey Hat Hacker** | **Cybersecurity Architect** | **CEO & Creator of EMRALD**  
 I believe in **digital sovereignty**, **technical mastery**, and **the power of hacking as philosophy**.
 
 ---
 
-## 🛠️ **Projects in Motion**  
+## 🛠️ <span style="color:#7B1E1E;">**Projects in Motion**</span>
 
 ### 🔐 [**Hacker OS USB Shield**](https://skyla643.github.io/HackerOSUSB-Emrald/)  
 More than a tool—this is a **fortress**.  
@@ -56,7 +57,7 @@ Step into the **ultimate hacker sanctuary**—a space where hacking meets innova
 
 ---
 
-## 🧠 **The Philosophy**  
+## 🧠 <span style="color:#B4B4B4;">**The Philosophy**</span>  
 This isn’t just hacking—  
 It’s **control. Understanding. Creation.**
 
@@ -68,5 +69,5 @@ You are not meant to follow the rules—you are meant to *write them.*
 
 ---
 
-### 🧬 **Coming Soon: The Blood Pact**  
-A hidden terminal. A secret layer. For those who seek more than mastery.
+### 🧬 <span style="color:#7B1E1E;">**Coming Soon: The Blood Pact**</span>  
+A hidden terminal. A secret layer. For those who seek more than mastery. 
