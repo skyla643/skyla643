@@ -1,42 +1,72 @@
 # 💻 Skyla's Hacker Mind Palace 💻  
+*"We create our own reality, and within it, we find both beauty and chaos."*  
+— **Hannibal Lecter**
 
-*"We create our own reality, and within it, we find both beauty and chaos."* — Hannibal Lecter  
-
-### **Who Am I?**  
-Grey Hat Hacker | Cybersecurity Architect | CEO & Creator of **Emrald**  
+![Astra – The Face of Emrald](https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png)  
+> *Astra watches over the Domain. She is not human. She is beyond.*
 
 ---
 
-## **Projects in Motion**  
+### 👤 **Who Am I?**  
+**Grey Hat Hacker** | **Cybersecurity Architect** | **CEO & Creator of EMRALD**  
+I believe in **digital sovereignty**, **technical mastery**, and **the power of hacking as philosophy**.
 
-### **[Hacker OS USB Shield](https://skyla643.github.io/HackerOSUSB-Emrald/)** 🔐  
+---
+
+## 🛠️ **Projects in Motion**  
+
+### 🔐 [**Hacker OS USB Shield**](https://skyla643.github.io/HackerOSUSB-Emrald/)  
 More than a tool—this is a **fortress**.  
-I am building something **undetectable, untouchable, and unbreakable**—a system designed for those who move in the shadows.  
-🔗 **Explore it here:** [Hacker OS USB Shield](https://skyla643.github.io/HackerOSUSB-Emrald/)  
+A fully encrypted, tamper-proof operating system that runs entirely from USB.  
+Built for those who move in the shadows.
 
-### **Love & Havoc** 🖥️  
-A ruthless **SSH toolkit** built for those who don’t have time for unnecessary bloat.  
-No apps. No dependencies. Just pure command-line efficiency.  
+🧬 Features:
+- Untraceable & forensically silent  
+- Tamper detection with self-destruction  
+- Modular and fully customizable  
+- Self-contained security suite  
 
-Pin my tools, **get in and out**, and leave nothing behind.  
-Kali tools exist—I’m aware. But this is **different**. No matter the network, no matter where you are, all you need is a terminal.  
-I take pride in giving you the tools to move **fast, smart, and unseen**.  
+🔗 **Explore it here:** [Hacker OS USB Shield](https://skyla643.github.io/HackerOSUSB-Emrald/)
 
-🔗 **Website Preview:** *Coming Soon*  
+---
 
-### **[Hacker’s Book](https://skyla643.github.io/Hackers-book/)** 📖  
-Step into the **ultimate hacker hang-out**—where hacking meets **innovation** with a **social circle**.  
+### 🖥️ **Love & Havoc**  
+A ruthless **SSH toolkit** for precision cyber operations.  
+No apps. No dependencies. Just pure command-line control.
 
-🔹 **Real-Time Collaboration** – Live coding, interactive problem-solving, and seamless teamwork.  
-🔹 **Cybersecurity Education** – Tutorials, CTFs, and hands-on learning.  
-🔹 **Community-Driven** – Forums, events, hackathons, and a reputation system to connect hackers worldwide.  
+📂 Includes tools for:
+- Reconnaissance & OSINT  
+- Exploitation & Privilege Escalation  
+- Stealth, Obfuscation, and Evasion  
+- Post-Exploitation & Persistence  
+
+🔗 **Website Preview:** *Coming Soon*
+
+---
+
+### 📖 [**The Hacker’s Book**](https://skyla643.github.io/Hackers-book/)  
+Step into the **ultimate hacker sanctuary**—a space where hacking meets innovation, strategy, and community.
+
+🔹 **Real-Time Collaboration** – Live coding, CTFs, and challenges  
+🔹 **Educational Modules** – From beginner to elite  
+🔹 **Community-Driven** – Hackathons, forums, rep system  
 
 🔗 **Explore it here:** [Hacker’s Book](https://skyla643.github.io/Hackers-book/)  
-
-🔗 **Beta Launch Coming Soon!**  
+🔗 **Beta Launch:** *Coming Soon*
 
 ---
 
-## **The Philosophy**  
-This isn’t just hacking—it’s **control. Understanding. Creation.**  
-**Fear the world, or make it fear you.**  
+## 🧠 **The Philosophy**  
+This isn’t just hacking—  
+It’s **control. Understanding. Creation.**
+
+To hack is to transcend. To know the system better than it knows itself.  
+You are not meant to follow the rules—you are meant to *write them.*
+
+> **Fear the world... or make it fear you.**  
+> — *EMRALD Manifesto*
+
+---
+
+### 🧬 **Coming Soon: The Blood Pact**  
+A hidden terminal. A secret layer. For those who seek more than mastery.
