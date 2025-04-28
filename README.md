@@ -8,6 +8,16 @@
 
 ---
 
+## 🛡️ <span style="color:#7B1E1E;">**Official Collaboration Announcement**</span>  
+We are proud to announce our partnership between **EMRALD Technologies** and **Unlimited Coverage**.  
+Together, we forge a future where technology, cybersecurity, and visionary innovation converge.  
+
+🔗 **Follow Us:**  
+- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/) — Official Emrald Technologies Instagram  
+- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/) — Unlimited Coverage Instagram
+
+---
+
 ### 👤 <span style="color:#B4B4B4;">**Who Am I?**</span>  
 **Grey Hat Hacker** | **Cybersecurity Architect** | **CEO & Creator of EMRALD**  
 I believe in **digital sovereignty**, **technical mastery**, and **the power of hacking as philosophy**.  
@@ -116,4 +126,4 @@ If you know, you know.
 ---
 
 > 🕯️ This is more than a repo. It’s a system of belief wrapped in code.  
-> Welcome to EMRALD.
+> Welcome to EMRALD. 
