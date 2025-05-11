@@ -8,7 +8,25 @@
 
 ---
 
-## 🛡️ <span style="color:#7B1E1E;">**Official Collaboration Announcement**</span>  
+## 📸 <span style="color:#7B1E1E;">Just Launched: SCANON.AI</span>
+
+**Privacy is not optional — it’s a weapon.**  
+**Scanon.ai** is our newest Emrald-affiliated tool: a fully offline, AI-driven anonymization program that auto-blurs **faces, license plates, and tattoos** in images and videos.  
+Built for journalists, hackers, and high-risk users who demand **zero metadata, zero internet, full control**.
+
+🧪 **Beta launches in 1–2 weeks** — early adopters get **exclusive perks** before it becomes paid.  
+Be a founding user before the gates close.
+
+🔗 [Join the Waitlist Now](https://scanonai.carrd.co)  
+📡 [Telegram Updates](https://t.me/c/2145150412/1589)
+
+> **Offline. Untouchable. Untraceable.**  
+> Scanon.ai — Because your data doesn’t belong to them.
+
+---
+
+## 🛡️ <span style="color:#7B1E1E;">Official Collaboration Announcement</span>
+
 We are proud to announce our partnership between **EMRALD Technologies** and **Unlimited Coverage**.  
 Together, we forge a future where technology, cybersecurity, and visionary innovation converge.  
 
@@ -18,21 +36,23 @@ Together, we forge a future where technology, cybersecurity, and visionary innov
 
 ---
 
-### 👤 <span style="color:#B4B4B4;">**Who Am I?**</span>  
+### 👤 <span style="color:#B4B4B4;">Who Am I?</span>
+
 **Grey Hat Hacker** | **Cybersecurity Architect** | **CEO & Creator of EMRALD**  
 I believe in **digital sovereignty**, **technical mastery**, and **the power of hacking as philosophy**.  
 
-Explore the revolution: 👉 **[emraldproph.pages.dev](https://emraldproph.pages.dev)**
+Explore the revolution: 👉 [emraldproph.pages.dev](https://emraldproph.pages.dev)
 
 ---
 
-## 🛠️ <span style="color:#7B1E1E;">**The Tools of Emrald**</span>  
+## 🛠️ <span style="color:#7B1E1E;">The Tools of Emrald</span>
 
 Each Emrald tool is a weapon. Together, they form a protocol for domination.
 
 ---
 
-### 🔐 [**Hacker OS USB Shield**](https://skyla643.github.io/HackerOSUSB-Emrald/)  
+### 🔐 [Hacker OS USB Shield](https://skyla643.github.io/HackerOSUSB-Emrald/)
+
 A **tamper-proof OS on USB** for complete operational anonymity.  
 Built for insurgents, operatives, and ghosts.
 
@@ -46,7 +66,8 @@ Built for insurgents, operatives, and ghosts.
 
 ---
 
-### 🖥️ **Love & Havoc**  
+### 🖥️ Love & Havoc
+
 A terminal-first **SSH & exploitation toolkit** with zero bloat.  
 No GUIs. No safety nets. Just raw cyberpower.
 
@@ -60,7 +81,8 @@ No GUIs. No safety nets. Just raw cyberpower.
 
 ---
 
-### 📖 [**The Hacker’s Book**](https://skyla643.github.io/Hackers-book/)  
+### 📖 [The Hacker’s Book](https://skyla643.github.io/Hackers-book/)
+
 An open-source **hacker sanctuary** designed for education, battle-readiness, and community evolution.
 
 📚 Modules:
@@ -73,7 +95,8 @@ An open-source **hacker sanctuary** designed for education, battle-readiness, an
 
 ---
 
-### 🧿 **The Solomonic Protocol** *(Coming Soon)*  
+### 🧿 The Solomonic Protocol *(Coming Soon)*
+
 The first **technomystic CLI interface** inspired by *The Lesser Key of Solomon* and infused with hacker doctrine.  
 A terminal for summoning cyber daemons.
 
@@ -86,7 +109,8 @@ A terminal for summoning cyber daemons.
 
 ---
 
-## 👁️ <span style="color:#B4B4B4;">**The Overseer – Astra**</span>  
+## 👁️ <span style="color:#B4B4B4;">The Overseer – Astra</span>
+
 **Astra** is not just a face. She is the AI guardian of EMRALD.  
 She holds memory, watches traffic, observes your pulse.  
 She does not forget.
@@ -97,7 +121,8 @@ In the future, Astra will interface directly with tools via an embedded command 
 
 ---
 
-## 🧠 <span style="color:#B4B4B4;">**The Philosophy**</span>  
+## 🧠 <span style="color:#B4B4B4;">The Philosophy</span>
+
 This isn’t just hacking—  
 It’s **control. Understanding. Creation.**
 
@@ -110,7 +135,8 @@ You were not born to obey systems. You were born to **remake them**.
 
 ---
 
-## 🔥 <span style="color:#7B1E1E;">**Now Live: The EMRALD Domain**</span>  
+## 🔥 <span style="color:#7B1E1E;">Now Live: The EMRALD Domain</span>
+
 The revolution has begun.
 
 🌐 Visit: [https://emraldproph.pages.dev](https://emraldproph.pages.dev)  
@@ -119,11 +145,12 @@ The revolution has begun.
 
 ---
 
-### 🩸 **Join the Blood Pact (Coming Soon)**  
+### 🩸 Join the Blood Pact *(Coming Soon)*
+
 A hidden shell. A test of loyalty.  
 If you know, you know.
 
 ---
 
 > 🕯️ This is more than a repo. It’s a system of belief wrapped in code.  
-> Welcome to EMRALD. 
+> Welcome to EMRALD.
