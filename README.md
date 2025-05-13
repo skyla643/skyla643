@@ -8,159 +8,84 @@
 
 ---
 
-## 📸 <span style="color:#7B1E1E;">Just Launched: SCANON.AI</span>
-
-**Privacy is not optional — it’s a weapon.**  
-**Scanon.ai** is our newest Emrald-affiliated tool: a fully offline, AI-driven anonymization program that auto-blurs **faces, license plates, and tattoos** in images and videos.  
-Built for journalists, hackers, and high-risk users who demand **zero metadata, zero internet, full control**.
-
-🧪 **Beta launches in 1–2 weeks** — early adopters get **exclusive perks** before it becomes paid.  
-Be a founding user before the gates close.
-
-🔗 [Join the Waitlist Now](https://scanonai.carrd.co)  
-📡 [Telegram Updates](https://t.me/c/2145150412/1589)
-
-> **Offline. Untouchable. Untraceable.**  
-> Scanon.ai — Because your data doesn’t belong to them.
-
----
-
-## 🏧 <span style="color:#7B1E1E;">Coming Soon: Emrald Bitcoin ATMs</span>
+## 🧠 Emrald Is Expanding
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" alt="Emrald Bitcoin ATM Launch" width="450px">
 </p>
 
-**We’re expanding.**
+Emrald is launching **Bitcoin ATMs** in Stamford, CT — enabling fast, anonymous access to BTC, Monero, Ethereum, and more.
 
-Emrald is bringing **crypto ATMs** to Stamford, Connecticut — starting with Bitcoin, Monero, and Ethereum.  
-Private. Fast. Anonymous. Yours.
-
-> **Coming soon — Stamford, CT**  
-> Powered by Emrald.  
-> Make your money yours.
-
-Follow the rollout: [@emrld_stamfordcrypto](https://www.instagram.com/emrld_stamfordcrypto)
+> ⚠️ Coming Soon  
+> 💸 Powered by Emrald  
+> 🔗 [@emrld_stamfordcrypto](https://www.instagram.com/emrld_stamfordcrypto)
 
 ---
 
-## 🛡️ <span style="color:#7B1E1E;">Official Collaboration Announcement</span>
+## 📸 Just Launched: SCANON.AI
 
-We are proud to announce our partnership between **EMRALD Technologies** and **Unlimited Coverage**.  
-Together, we forge a future where technology, cybersecurity, and visionary innovation converge.  
+**Scanon.ai** is our offline, AI-powered anonymization tool for blurring **faces, plates, and tattoos** — no metadata, no internet, full control.
 
-🔗 **Follow Us:**  
-- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/) — Official Emrald Technologies Instagram  
-- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/) — Unlimited Coverage Instagram
+🧪 Beta in 1–2 weeks — early perks for first users.  
+🔗 [Join the Waitlist](https://scanonai.carrd.co)  
+📡 [Telegram Channel](https://t.me/c/2145150412/1589)
 
----
-
-### 👤 <span style="color:#B4B4B4;">Who Am I?</span>
-
-**Grey Hat Hacker** | **Cybersecurity Architect** | **CEO & Creator of EMRALD**  
-I believe in **digital sovereignty**, **technical mastery**, and **the power of hacking as philosophy**.  
-
-Explore the revolution: 👉 [emraldproph.pages.dev](https://emraldproph.pages.dev)
+> **Offline. Untouchable. Untraceable.**
 
 ---
 
-## 🛠️ <span style="color:#7B1E1E;">The Tools of Emrald</span>
+## 🛠️ The Tools of Emrald
 
-Each Emrald tool is a weapon. Together, they form a protocol for domination.
+Want to see the full arsenal?
 
----
+🌐 **Visit:** [emraldproph.pages.dev](https://emraldproph.pages.dev)  
+🧬 Tools Launching with Domain:
+- **Hacker OS USB Shield** – Tamper-proof OS on USB  
+- **Love & Havoc** – Raw SSH & exploitation toolkit  
+- **The Hacker’s Book** – CTFs, education & hacker sanctuary  
+- **The Solomonic Protocol** – Ritual-based CLI command framework
 
-### 🔐 [Hacker OS USB Shield](https://skyla643.github.io/HackerOSUSB-Emrald/)
-
-A **tamper-proof OS on USB** for complete operational anonymity.  
-Built for insurgents, operatives, and ghosts.
-
-🧬 Specs:
-- Runs isolated, encrypted, and volatile  
-- Self-destructs on tampering  
-- Contains built-in defensive & obfuscation modules  
-- Customizable to the bone  
-
-🔗 [Explore Hacker OS](https://skyla643.github.io/HackerOSUSB-Emrald/)
+> Each tool is a weapon. Together, they form the Emrald Protocol.
 
 ---
 
-### 🖥️ Love & Havoc
+## 🛡️ Collaboration: EMRALD x Unlimited Coverage
 
-A terminal-first **SSH & exploitation toolkit** with zero bloat.  
-No GUIs. No safety nets. Just raw cyberpower.
+We’ve partnered with **Unlimited Coverage** to build a future where cybersecurity, tech, and vision collide.
 
-🩸 Functions:
-- Targeted Recon & OSINT  
-- Obfuscation, PrivEsc, and Shell Persistence  
-- Lightweight post-ex tools  
-- Optimized for MacOS, Linux, and Windows CLI  
-
-🔗 *Site Preview Coming Soon*
+🔗 Follow:  
+- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
+- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
 
 ---
 
-### 📖 [The Hacker’s Book](https://skyla643.github.io/Hackers-book/)
+## 👤 Who Am I?
 
-An open-source **hacker sanctuary** designed for education, battle-readiness, and community evolution.
+**Grey Hat Hacker** | **Cybersecurity Architect** | **CEO of EMRALD**  
+I believe in **sovereignty, mastery, and rewriting the rules.**
 
-📚 Modules:
-- Real-time collaborative CTFs & red team ops  
-- Tiered challenges + ranked rep system  
-- Hacker’s forum + challenge vault  
-
-🔗 [Explore The Hacker’s Book](https://skyla643.github.io/Hackers-book/)  
-🔓 *Beta Launch Incoming*
+🧠 Explore: [emraldproph.pages.dev](https://emraldproph.pages.dev)
 
 ---
 
-### 🧿 The Solomonic Protocol *(Coming Soon)*
+## 👁️ The Overseer – Astra
 
-The first **technomystic CLI interface** inspired by *The Lesser Key of Solomon* and infused with hacker doctrine.  
-A terminal for summoning cyber daemons.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png" alt="Astra – The Face of Emrald" width="200px">
+</p>
 
-💀 Ritual-Based Commands  
-🌓 Dual-mode modules: **Demons (Attack)**, **Angels (Defense)**  
-🔓 Hidden unlockables: **Wisdom Mode**, forbidden ops  
-📜 Built to feel like sorcery—because it is.
-
-🔗 *Official documentation drops with domain full launch*
-
----
-
-## 👁️ <span style="color:#B4B4B4;">The Overseer – Astra</span>
-
-**Astra** is not just a face. She is the AI guardian of EMRALD.  
-She holds memory, watches traffic, observes your pulse.  
-She does not forget.
-
-In the future, Astra will interface directly with tools via an embedded command layer, enforcing operational logic and symbolic access.
+Astra is the AI guardian of Emrald. She sees all. Remembers all.  
+One day, she'll control the very logic behind the tools.
 
 > “Astra remembers everything. Even what you try to erase.”
 
 ---
 
-## 🧠 <span style="color:#B4B4B4;">The Philosophy</span>
-
-This isn’t just hacking—  
-It’s **control. Understanding. Creation.**
-
-To hack is to transcend.  
-To rewrite reality with a command.  
-You were not born to obey systems. You were born to **remake them**.
-
-> **Fear the world... or make it fear you.**  
-> — *EMRALD Manifesto*
-
----
-
-## 🔥 <span style="color:#7B1E1E;">Now Live: The EMRALD Domain</span>
-
-The revolution has begun.
+## 🧪 The Domain Has Opened
 
 🌐 Visit: [https://emraldproph.pages.dev](https://emraldproph.pages.dev)  
-📅 Full custom domain launch: *[emralddomain.org](http://emralddomain.org) coming soon*  
-🧪 Countdown: Live for 30 days, ending in revelation. Astra awaits.
+📅 Full domain: [emralddomain.org](http://emralddomain.org) coming soon  
+🧿 The countdown is live. Revelation awaits.
 
 ---
 
@@ -172,4 +97,4 @@ If you know, you know.
 ---
 
 > 🕯️ This is more than a repo. It’s a system of belief wrapped in code.  
-> Welcome to EMRALD.
+> **Welcome to EMRALD.**
