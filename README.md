@@ -25,6 +25,25 @@ Be a founding user before the gates close.
 
 ---
 
+## 🏧 <span style="color:#7B1E1E;">Coming Soon: Emrald Bitcoin ATMs</span>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" alt="Emrald Bitcoin ATM Launch" width="450px">
+</p>
+
+**We’re expanding.**
+
+Emrald is bringing **crypto ATMs** to Stamford, Connecticut — starting with Bitcoin, Monero, and Ethereum.  
+Private. Fast. Anonymous. Yours.
+
+> **Coming soon — Stamford, CT**  
+> Powered by Emrald.  
+> Make your money yours.
+
+Follow the rollout: [@emrld_stamfordcrypto](https://www.instagram.com/emrld_stamfordcrypto)
+
+---
+
 ## 🛡️ <span style="color:#7B1E1E;">Official Collaboration Announcement</span>
 
 We are proud to announce our partnership between **EMRALD Technologies** and **Unlimited Coverage**.  
