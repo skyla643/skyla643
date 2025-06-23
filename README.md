@@ -11,6 +11,21 @@
   <img src="https://img.shields.io/badge/FUNDING%20IN%20PROGRESS-%F0%9F%92%B8%20SCANON.AI-critical?style=for-the-badge&color=7B1E1E">
 </p>
 
+
+---
+
+## 🧑‍💻 Interested in Moderating?
+
+We’re recruiting moderators for the SCANON.AI Discord — focused on privacy, cybersecurity, and high-signal conversation.
+
+If you’re calm under pressure, fluent in hacker culture, and aligned with our mission, we’d like to hear from you.
+
+🔗 **Apply to mod here:**  
+[https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)
+
+📢 You can also read our full announcement on LinkedIn:  
+[https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
+
 ---
 
 ## 🚨 We’re Raising for SCANON.AI — Join the Mission
