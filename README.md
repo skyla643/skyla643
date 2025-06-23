@@ -4,7 +4,7 @@
 <p align="center"><em>"The tools we build are the freedoms we keep."</em><br>— <strong>Emrald Manifesto</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JUe1FfaOnHqoY/giphy.gif" alt="Astra Signal GIF" width="380px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWRnYXBrcXhmYnN6NG41cHpleGdnemxyODJsbHdneDdxeHR1NWwwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriNLx3dUqFgVi86I/giphy.gif" alt="Scanon.ai animated blur" width="380px">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🚨 We’re Raising for SCANON.AI — Join the Mission
 
 **Scanon.ai** is an offline, AI-powered anonymization engine for those who vanish by design.  
-It detects and blurs **faces, license plates, and tattoos** in real time, without uploading a single byte.
+It detects and blurs **faces, license plates, and tattoos** in real time — without uploading a single byte.
 
 🛠 Built for:  
 - Investigative journalists  
@@ -28,7 +28,8 @@ It detects and blurs **faces, license plates, and tattoos** in real time, withou
 
 - 🌐 Linux/macOS/Windows release builds  
 - 🧠 YOLOv8, OCR, and smart anonymization workflows  
-- 🛡️ Full security audits, fuzzing, and red team testing
+- 🛡️ Full security audits, fuzzing, and red team testing  
+- ⚡ Hardware upgrades and faster, sharper, compressed app packages
 
 📩 **Contact:** [LinkedIn – Skyla Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)  
 📄 **Pitch deck available upon request**
@@ -43,13 +44,8 @@ It detects and blurs **faces, license plates, and tattoos** in real time, withou
 All bandwidth is flowing into **SCANON.AI** — an AI-powered anonymization engine that lives fully offline.  
 The **Emrald Domain** and **Bitcoin ATM rollout** are paused, not forgotten.
 
-🧬 Next-gen anonymization is now:  
-- ✅ FastAPI backend stable  
-- ✅ Frame processing + blur logic running  
-- 🚀 **Beta in 1–2 weeks**
-
 <p align="center">
-  <img src="https://media.giphy.com/media/kaBUHzIg9VBsM/giphy.gif" width="460px" alt="Real-time Blur Demo">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW44dmVwN2E5Z3Y4bXIzenVkeGJ4b3NidDBpYWd1Mm40cTBxMDJ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A1hoXFgZ1NFwQ/giphy.gif" alt="System in motion" width="440px">
 </p>
 
 🔗 [Join the Waitlist](https://scanonai.carrd.co)  
@@ -61,7 +57,7 @@ The **Emrald Domain** and **Bitcoin ATM rollout** are paused, not forgotten.
 
 ## 📸 Just Launched: SCANON.AI
 
-A joint build from **Unlimited Coverage** x **Emrald**  
+A joint build from **Unlimited Coverage** × **Emrald**  
 Crafted under the Emrald banner by Skyla herself.
 
 > **Offline. Untouchable. Untraceable.**
@@ -135,7 +131,6 @@ Soon, Astra will drive logic across the entire Emrald protocol stack.
 **Grey Hat Hacker** | **Cybersecurity Architect** | **CEO of EMRALD**  
 🛠 I build tactical tools for those who refuse to be surveilled.
 
-🔗 GitHub: [skyla643](https://github.com/skyla643)  
 🌐 Site: [emraldproph.pages.dev](https://emraldproph.pages.dev)
 
 ---
