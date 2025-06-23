@@ -1,10 +1,10 @@
 <h1 align="center" style="font-family:'UnifrakturCook', serif; color:#7B1E1E; font-size: 3em;">
   🛡️ SCANON.AI — <em>The Eye That Forgets</em> 🛡️
 </h1>
-<p align="center"><em>"The tools we build are the freedoms we keep."</em><br><strong>— Emrald Manifesto</strong></p>
+<p align="center"><em>"The tools we build are the freedoms we keep."</em><br>— <strong>Emrald Manifesto</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNiOXlscDR1d2M5ZTA5ZGE2bHFuNzZkbTkyZmIweWY1b2d5Yjk1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JUe1FfaOnHqoY/giphy.gif" width="380px" alt="Blur effect demo">
+  <img src="https://media.giphy.com/media/JUe1FfaOnHqoY/giphy.gif" alt="Astra Signal GIF" width="380px">
 </p>
 
 <p align="center">
@@ -13,140 +13,147 @@
 
 ---
 
-## 🚨 FUND SCANON.AI — Tactical Privacy for a Dangerous World
+## 🚨 We’re Raising for SCANON.AI — Join the Mission
 
-> **The only truly private vision tool.**  
-> Built for those who vanish by design.
+**Scanon.ai** is an offline, AI-powered anonymization engine for those who vanish by design.  
+It detects and blurs **faces, license plates, and tattoos** in real time, without uploading a single byte.
 
-**Scanon.ai** is a fully offline AI anonymizer for real-time blurring of:
-- 🧠 Faces  
-- 🚘 License plates  
-- 🌀 Tattoos  
-
-📦 **No uploads. No metadata. No trace.**
-
-### 🧰 Ideal For:
+🛠 Built for:  
 - Investigative journalists  
-- Human rights defenders  
-- Cybersecurity operatives  
-- Whistleblowers & privacy maximalists
+- Human rights workers  
+- Cybersecurity professionals  
+- Privacy maximalists and whistleblowers  
+
+🎯 **Current Goal:** Secure funding for...
+
+- 🌐 Linux/macOS/Windows release builds  
+- 🧠 YOLOv8, OCR, and smart anonymization workflows  
+- 🛡️ Full security audits, fuzzing, and red team testing
+
+📩 **Contact:** [LinkedIn – Skyla Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)  
+📄 **Pitch deck available upon request**
+
+> 💰 **Fund the future of tactical privacy.**  
+> 💣 This is the moment. All firepower is behind Scanon.ai.
 
 ---
 
-## 💸 FUNDING GOALS (JUNE 2025)
+## ⚠️ Status Update — June 2025
 
-We are currently **raising capital** to:
+All bandwidth is flowing into **SCANON.AI** — an AI-powered anonymization engine that lives fully offline.  
+The **Emrald Domain** and **Bitcoin ATM rollout** are paused, not forgotten.
 
-✅ Cross-platform desktop support (Linux/macOS/Windows)  
-✅ Integrated YOLOv8 + OCR object detection  
-✅ Launch **security audits**, fuzzing, red-team testing  
-✅ Ship auto-updating installer & air-gapped modes
+🧬 Next-gen anonymization is now:  
+- ✅ FastAPI backend stable  
+- ✅ Frame processing + blur logic running  
+- 🚀 **Beta in 1–2 weeks**
 
-📩 **Request Deck / Contact:**  
-[LinkedIn – Skyla Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)  
-📄 **Pitch available on request**  
-👾 GitHub: [github.com/skyla643](https://github.com/skyla643)
-
-> 💥 Fund the future of **tactical anonymity.**
-
----
-
-## ⏳ STATUS UPDATE — JUNE 2025
-
-All attention is now on Scanon.ai:  
-⚙️ Backend (FastAPI) is stable  
-🧪 Frontend integration is near complete  
-📸 Detection & blurring pipelines functional  
-🚀 Beta Launch: **1–2 weeks**
-
-> 🧬 Next-gen anonymization lives **offline.**
+<p align="center">
+  <img src="https://media.giphy.com/media/kaBUHzIg9VBsM/giphy.gif" width="460px" alt="Real-time Blur Demo">
+</p>
 
 🔗 [Join the Waitlist](https://scanonai.carrd.co)  
 📡 [Telegram Channel](https://t.me/c/2145150412/1589)
 
----
-
-## 🌐 LIVE DEMO PREVIEW
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFub2tjcW5jOG5oZ2s3MHlmZWRzMmVhdjNqazlvaXByb2N6d3VhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kaBUHzIg9VBsM/giphy.gif" width="450px" alt="Detection blur preview demo">
-</p>
+> **No metadata. No internet. No trace.**
 
 ---
 
-## 🤝 STRATEGIC ALLIANCE: Emrald × Unlimited Coverage
+## 📸 Just Launched: SCANON.AI
 
-This is a joint operation between:
+A joint build from **Unlimited Coverage** x **Emrald**  
+Crafted under the Emrald banner by Skyla herself.
 
-**Unlimited Coverage** — Surveillance analysis and IRL logistics  
-**Emrald** — Software engineering and offensive privacy tools
-
-📣 Follow the syndicate:  
-- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
-- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
-
-> Not a startup. A blacksite.
+> **Offline. Untouchable. Untraceable.**
 
 ---
 
-## 🎮 DISCORD COMMAND LAUNCH
+## 🎮 SCANON.AI DISCORD LAUNCH
 
-🧠 Access the command hub for dev builds, logs, secure drops:  
-🗓️ **Friday, June 27**  
-🔗 Via Instagram DMs → [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
-🔗 Or [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
+🧠 We're launching a secure Discord command center:
+
+🗓️ **Launch:** Friday, June 27  
+💾 Access: Beta tools, logs, drop zones, dev builds  
+🔗 Invite via [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/) or [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
 
 > “Not a community. A syndicate.”
 
 ---
 
-## 🧬 ASTRA — The Eye of Emrald
+## 🤝 Strategic Partnership: EMRALD × Unlimited Coverage
+
+We’ve partnered to build the future of tactical cybersecurity.  
+**Scanon.ai** is only the beginning.
+
+🔗 Follow:  
+- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
+- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
+
+---
+
+## 🧠 EMRALD IS EXPANDING
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png" width="240px">
+  <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" alt="Emrald Bitcoin ATM Launch" width="450px">
 </p>
 
-She is the memory.  
-Soon, Astra will control the logic in all Emrald tools.
+**Bitcoin ATMs launching in Stamford, CT**  
+> Buy BTC, XMR, ETH — fast and anonymous.
+
+🔗 [@emrld_stamfordcrypto](https://www.instagram.com/emrld_stamfordcrypto)
+
+---
+
+## 🛠️ The Tools of Emrald
+
+🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev)
+
+- 🛡️ **Hacker OS USB Shield** – Tamper-proof portable OS  
+- 🖥️ **Love & Havoc** – SSH + exploitation toolkit  
+- 📖 **The Hacker’s Book** – CTFs, ops playbooks, and learning  
+- 🧿 **The Solomonic Protocol** – Ritual-based terminal interface  
+
+> Each tool is a weapon. Together, they are the Emrald Protocol.
+
+---
+
+## 👁️ The Overseer — Astra
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skyla643/ASTRA-EMRALD-PROPERTY/main/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_56_49%20PM.png" alt="Astra – The Face of Emrald" width="200px">
+</p>
+
+She sees all. She forgets nothing.  
+Soon, Astra will drive logic across the entire Emrald protocol stack.
 
 > “Astra remembers everything. Even what you try to erase.”
 
 ---
 
-## ⚙️ THE EMRALD TOOLCHAIN
+## 👤 Who Am I?
 
-🛡️ **Hacker OS USB Shield** – Tamper-proof portable OS  
-🖥️ **Love & Havoc** – SSH and recon toolkit  
-📖 **The Hacker’s Book** – CTFs + offensive learning  
-🧿 **The Solomonic Protocol** – Ritualist CLI for high-trust ops
+**Grey Hat Hacker** | **Cybersecurity Architect** | **CEO of EMRALD**  
+🛠 I build tactical tools for those who refuse to be surveilled.
 
-🌐 See the full domain: [emraldproph.pages.dev](https://emraldproph.pages.dev)
+🔗 GitHub: [skyla643](https://github.com/skyla643)  
+🌐 Site: [emraldproph.pages.dev](https://emraldproph.pages.dev)
 
 ---
 
-## 🩸 JOIN THE BLOOD PACT *(Soon)*
+## 🧪 The Domain Has Opened
 
-A secret terminal.  
-A test of loyalty.  
+📍 [emraldproph.pages.dev](https://emraldproph.pages.dev)  
+🩸 [emralddomain.org](http://emralddomain.org) — launching soon
+
+> Tools. Lore. Access. Revelation awaits.
+
+---
+
+## 🩸 Join the Blood Pact *(Coming Soon)*
+
+A hidden terminal. A challenge of faith.  
 If you know, you know.
 
 > 🕯️ This is more than a repo.  
-> It’s a system of belief wrapped in code.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" width="400px" alt="ATM Launch">
-</p>
-
----
-
-## 🔻 STAY DARK. STAY FREE.
-
-**Grey Hat Hacker** | **Cybersecurity Architect** | **CEO of EMRALD**
-
-🧠 Join the movement:  
-📂 [https://github.com/skyla643](https://github.com/skyla643)  
-🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev)
-
----
+> It’s a belief system wrapped in code.  
+> **Welcome to EMRALD.**
