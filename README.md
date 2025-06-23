@@ -4,26 +4,25 @@
 <p align="center"><em>"The tools we build are the freedoms we keep."</em><br>— <strong>Emrald Manifesto</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWRnYXBrcXhmYnN6NG41cHpleGdnemxyODJsbHdneDdxeHR1NWwwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriNLx3dUqFgVi86I/giphy.gif" alt="Scanon.ai animated blur" width="380px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGV5aXFkdXc1cDd0MGN6azlwY3IzZDNseG1lYWQzMG12bTkyZG02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SmaYvew52UlC9MmB6l/giphy.gif" alt="Scanon.ai Blur GIF" width="380px">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FUNDING%20IN%20PROGRESS-%F0%9F%92%B8%20SCANON.AI-critical?style=for-the-badge&color=7B1E1E">
 </p>
 
-
 ---
 
 ## 🧑‍💻 Interested in Moderating?
 
-We’re recruiting moderators for the SCANON.AI Discord — focused on privacy, cybersecurity, and high-signal conversation.
+We’re recruiting moderators for the **SCANON.AI Discord** — a focused space for privacy, cybersecurity, and high-signal collaboration.
 
-If you’re calm under pressure, fluent in hacker culture, and aligned with our mission, we’d like to hear from you.
+If you’re calm under pressure, fluent in hacker culture, and aligned with our mission, we want to hear from you.
 
 🔗 **Apply to mod here:**  
 [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)
 
-📢 You can also read our full announcement on LinkedIn:  
+📢 **Read the full announcement on LinkedIn:**  
 [https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
 
 ---
@@ -39,12 +38,11 @@ It detects and blurs **faces, license plates, and tattoos** in real time — wit
 - Cybersecurity professionals  
 - Privacy maximalists and whistleblowers  
 
-🎯 **Current Goal:** Secure funding for...
-
-- 🌐 Linux/macOS/Windows release builds  
+🎯 **Current Goal:** Secure funding for:
+- 🌐 Cross-platform desktop support (Linux, macOS, Windows)  
 - 🧠 YOLOv8, OCR, and smart anonymization workflows  
-- 🛡️ Full security audits, fuzzing, and red team testing  
-- ⚡ Hardware upgrades and faster, sharper, compressed app packages
+- 🛡️ Security audits, fuzzing, and red-team testing  
+- ⚡ Hardware upgrades and compressed, faster app packages
 
 📩 **Contact:** [LinkedIn – Skyla Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)  
 📄 **Pitch deck available upon request**
@@ -81,7 +79,7 @@ Crafted under the Emrald banner by Skyla herself.
 
 ## 🎮 SCANON.AI DISCORD LAUNCH
 
-🧠 We're launching a secure Discord command center:
+🧠 We’re launching a secure Discord command center:
 
 🗓️ **Launch:** Friday, June 27  
 💾 Access: Beta tools, logs, drop zones, dev builds  
