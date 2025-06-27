@@ -13,17 +13,15 @@
 
 ---
 
-## 🧑‍💻 Interested in Moderating?
+## 🧑‍💻 Mod for Scanon.ai?
 
-We’re recruiting moderators for the **SCANON.AI Discord** — a focused space for privacy, cybersecurity, and high-signal collaboration.
+We’re recruiting moderators for the **SCANON.AI Discord** — a focused space for privacy, cybersecurity, and tactical AI.
 
-If you’re calm under pressure, fluent in hacker culture, and aligned with our mission, we want to hear from you.
+🧠 Calm under pressure? Fluent in hacker culture? Aligned with our mission?  
+Apply here → [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)
 
-🔗 **Apply to mod here:**  
-[https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)
-
-📢 **Read the full announcement on LinkedIn:**  
-[https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
+📢 Full post → [LinkedIn Announcement](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)  
+🚪 Join the Discord → [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)
 
 ---
 
@@ -79,11 +77,11 @@ Crafted under the Emrald banner by Skyla herself.
 
 ## 🎮 SCANON.AI DISCORD LAUNCH
 
-🧠 We’re launching a secure Discord command center:
+🧠 We’ve launched our secure Discord command center:  
+Join to test tools, drop feedback, get dev builds, and shape what comes next.
 
-🗓️ **Launch:** Friday, June 27  
-💾 Access: Beta tools, logs, drop zones, dev builds  
-🔗 Invite via [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/) or [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
+🗓️ **Launch:** June 27, 2025  
+🔗 **Join here:** [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)
 
 > “Not a community. A syndicate.”
 
