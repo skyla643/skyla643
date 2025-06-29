@@ -12,10 +12,12 @@
 </p>
 
 ---
+
 ## 📬 Contact
 
 Have questions, feedback, or opportunities you'd like to discuss?  
 Feel free to reach out via email: [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
+
 ---
 
 ## 🧑‍💻 Mod for Scanon.ai?
