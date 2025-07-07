@@ -17,13 +17,25 @@
 
 ---
 
+## 👾 Become a SCANON.AI Moderator
+
+We’re recruiting for the **SCANON.AI Discord Syndicate** — not a community, a command center.
+
+🧠 Calm under pressure? Fluent in privacy + AI culture?  
+Apply: [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)  
+🚪 Discord: [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)  
+📣 [LinkedIn Announcement](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
+
+---
+
 ## 🔥 July 2025 Update
 
-All systems go. Scanon.ai is now live in **desktop beta** — 100% offline, real-time blurring of faces, plates, and tattoos.  
-**The Emrald Domain** and **Bitcoin ATM rollout** are paused, not forgotten.
+Development of **Scanon.ai** is active and accelerating.  
+We're focused on offline anonymization tools for real-world privacy defense.
 
-> **No metadata. No internet. No trace.**  
-> **Just protection.**
+> **No metadata. No internet. No trace.**
+
+The Discord Syndicate launched June 27, 2025 — the rest is under wraps for now.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW44dmVwN2E5Z3Y4bXIzenVkeGJ4b3NidDBpYWd1Mm40cTBxMDJ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A1hoXFgZ1NFwQ/giphy.gif" width="440px">
@@ -36,53 +48,44 @@ All systems go. Scanon.ai is now live in **desktop beta** — 100% offline, real
 
 ## 🚨 Join the Mission
 
-**Scanon.ai** is a tactical AI engine that **anonymizes without the cloud**.  
-Offline blurring of:
+**Scanon.ai** is an AI-powered anonymization engine designed for high-risk contexts.  
+It detects and blurs:
 - 🧑 Faces
 - 🧩 Tattoos
-- 🚘 License Plates
+- 🚘 License Plates  
+— all without the cloud.
 
 ### 📍 Built for:
 Investigative journalists • Human rights orgs • Cybersecurity pros • Privacy maximalists
 
-🎯 Funding Goals:
-- Cross-platform builds (Win/macOS/Linux)
-- YOLOv8 + OCR smart detection
-- Security audits, fuzzing, and red teaming
-- App size compression + hardware testing
+🎯 **Funding Goals:**
+- Cross-platform app (Win/macOS/Linux)
+- YOLOv8 + OCR workflows
+- Security audits, fuzzing, red teaming
+- Optimized builds for low-spec hardware
 
-💼 **Pitch deck on request**  
+💼 **Pitch deck available upon request**  
 🔗 [LinkedIn – Skyla Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)
 
 ---
 
-## 👾 Become a SCANON.AI Moderator
+## 💥 Just Launched: SCANON.AI Discord
 
-We’re recruiting for the **SCANON.AI Discord Syndicate** — not a community, a command center.
+> Not a community. A syndicate.
 
-🧠 Calm under pressure? Fluent in privacy + AI culture?  
-Apply: [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)  
-🚪 Discord: [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)  
-📣 [LinkedIn Announcement](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
+Our secure Discord command center is live. Join to:
+- Test early tools
+- Drop feedback
+- Shape the mission
 
----
-
-## 💥 Just Launched
-
-**SCANON.AI Desktop App**  
-> Built in partnership with Unlimited Coverage × Emrald  
-> Engineered by Skyla. Powered by purpose.
-
-📆 Launch: June 27, 2025  
-🔗 [Join Discord](https://discord.gg/Qy7SA9bDEy)
-
-> **Offline. Untouchable. Untraceable.**
+📆 Launch Date: **June 27, 2025**  
+🔗 [Join the SCANON.AI Discord](https://discord.gg/Qy7SA9bDEy)
 
 ---
 
-## 🤝 EMRALD × Unlimited Coverage
+## 🤝 Strategic Alliance: EMRALD × Unlimited Coverage
 
-A strategic alliance to shape the future of tactical cybersecurity.
+We’ve partnered to build the future of tactical cybersecurity.
 
 📡 Follow the founders:  
 - [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
@@ -90,14 +93,14 @@ A strategic alliance to shape the future of tactical cybersecurity.
 
 ---
 
-## ⚙️ Emrald Tools
+## ⚙️ Tools of Emrald
 
 > Each tool is a weapon. Together, they form the Emrald Protocol.
 
-- 🛡️ **Hacker OS USB Shield** – Tamper-proof, bootable OS  
-- 🖥️ **Love & Havoc** – Exploitation + SSH toolkit  
-- 📖 **The Hacker’s Book** – Field-ready playbooks + CTFs  
-- 🧿 **The Solomonic Protocol** – Ritual-based terminal control
+- 🛡️ **Hacker OS USB Shield** — tamper-proof bootable OS  
+- 🖥️ **Love & Havoc** — SSH + exploitation toolkit  
+- 📖 **The Hacker’s Book** — field ops + CTF playbooks  
+- 🧿 **The Solomonic Protocol** — ritual terminal interface
 
 🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev)
 
@@ -114,18 +117,18 @@ She governs logic across the Emrald stack.
 
 ---
 
-## 🪙 Bitcoin ATMs — Coming to Stamford, CT
+## 🪙 Bitcoin ATMs — Coming Soon
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" width="440px">
 </p>
 
-Buy BTC, XMR, ETH — fast and anonymous.  
+Anonymous crypto ATMs in Stamford, CT.  
 📸 [@emrld_stamfordcrypto](https://www.instagram.com/emrld_stamfordcrypto)
 
 ---
 
-## 🩸 Emrald Domain
+## 🩸 The Emrald Domain
 
 📍 [emraldproph.pages.dev](https://emraldproph.pages.dev)  
 🕳️ [emralddomain.org](http://emralddomain.org) — launching soon
@@ -136,8 +139,8 @@ Buy BTC, XMR, ETH — fast and anonymous.
 
 ## 🕯 Join the Blood Pact *(Soon)*
 
-A terminal. A trial. A belief system.  
-> Not just code. A philosophy.
+A hidden terminal. A challenge of faith.  
+> **This is more than a repo. It’s a belief system wrapped in code.**
 
 ---
 
