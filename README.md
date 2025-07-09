@@ -17,14 +17,21 @@
 
 ---
 
-## 👾 Become a SCANON.AI Moderator
+## 👾 Moderator Intake — July 2025
 
-We’re recruiting for the **SCANON.AI Discord Syndicate** — not a community, a command center.
+We’re assembling the **SCANON.AI Discord Syndicate** — a tactical layer beneath the surface.
 
-🧠 Calm under pressure? Fluent in privacy + AI culture?  
-Apply: [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)  
-🚪 Discord: [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)  
-📣 [LinkedIn Announcement](https://www.linkedin.com/posts/skylamirandareyes-a99b781b4_were-building-something-private-and-activity-7343050032209702914-4HYT)
+Applicants so far?  
+Let’s just say the backgrounds range from **large-scale ops** to **unusually calm under fire**. This isn’t just a mod role — it’s alignment with a mission.
+
+📅 **First wave of moderators will be announced July 11**  
+💡 Applications are still open. Every background is considered — if you resonate with privacy, autonomy, and high-signal culture, we’ll see you.
+
+💸 **$100 crypto giveaway** when we reach 100 members  
+→ Any coin. Any wallet. Just for being early.
+
+🔗 Apply: [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)  
+🧭 Join: [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)
 
 ---
 
