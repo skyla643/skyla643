@@ -15,17 +15,23 @@
   <img src="https://img.shields.io/badge/FUNDING%20IN%20PROGRESS-%F0%9F%92%B8%20SCANON.AI-critical?style=for-the-badge&color=7B1E1E">
 </p>
 
+<p align="center">
+  🧷 <strong>NEW DROP</strong>: Stickers, Shields, and Artifacts now available —  
+  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">Browse the EmraldTech Store</a>
+</p>
+
 ---
 
 ## 👾 Moderator Intake — July 2025
 
-We’re assembling the **SCANON.AI Discord Syndicate** — a tactical layer beneath the surface.
+We’ve assembled the **SCANON.AI Discord Syndicate** — a tactical layer beneath the surface.
 
-Applicants so far?  
-Let’s just say the backgrounds range from **large-scale ops** to **unusually calm under fire**. This isn’t just a mod role — it’s alignment with a mission.
+Applicants came from everywhere:  
+From **large-scale ops** to **ghosts in the machine**.  
+This isn’t just a mod role — it’s an alliance.
 
-📅 **First wave of moderators will be announced July 11**  
-💡 Applications are still open. Every background is considered — if you resonate with privacy, autonomy, and high-signal culture, we’ll see you.
+📣 **First wave announced July 11** — Now active  
+💡 You can still apply if you're aligned with **privacy, autonomy, and high-signal culture**.
 
 💸 **$100 crypto giveaway** when we reach 100 members  
 → Any coin. Any wallet. Just for being early.
@@ -42,7 +48,7 @@ We're focused on offline anonymization tools for real-world privacy defense.
 
 > **No metadata. No internet. No trace.**
 
-The Discord Syndicate launched June 27, 2025 — the rest is under wraps for now.
+The Discord Syndicate launched **June 27, 2025** — the rest is under wraps for now.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW44dmVwN2E5Z3Y4bXIzenVkeGJ4b3NidDBpYWd1Mm40cTBxMDJ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A1hoXFgZ1NFwQ/giphy.gif" width="440px">
@@ -50,6 +56,23 @@ The Discord Syndicate launched June 27, 2025 — the rest is under wraps for now
 
 🔗 [Join the Waitlist](https://scanonai.carrd.co)  
 📡 [Telegram Channel](https://t.me/c/2145150412/1589)
+
+---
+
+## 🛍️ EmraldTech Official Etsy Store — Now Live
+
+<p align="center">
+  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
+    <img src="https://img.shields.io/badge/SHOP%20NOW-EMRALDTECH%20-%237B1E1E?style=for-the-badge">
+  </a>
+</p>
+
+> Stickers. Shields. Summoning tools.
+
+We’re launching **limited-run drops** inspired by SCANON.AI, Astra, and The Solomonic Protocol.  
+Built for field ops, collectors, and those who work in the dark.
+
+🛒 [Visit the Shop](https://www.etsy.com/shop/Emraldtech?ref=dashboard-header)
 
 ---
 
@@ -76,7 +99,7 @@ Investigative journalists • Human rights orgs • Cybersecurity pros • Priva
 
 ---
 
-## 💥 Just Launched: SCANON.AI Discord
+## 💥 SCANON.AI Discord is Live
 
 > Not a community. A syndicate.
 
@@ -158,5 +181,4 @@ I build tools for those who vanish by design.
 
 📫 [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)  
 🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev)
-
----
+``` 
