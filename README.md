@@ -16,9 +16,27 @@
 </p>
 
 <p align="center">
-  🧷 <strong>NEW DROP</strong>: Stickers, Shields, and Artifacts now available —  
-  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">Browse the EmraldTech Store</a>
+  🧷 <strong>NOW LIVE:</strong> <a href="#emraldtech-official-etsy-store--now-live">EmraldTech on Etsy</a>  
+  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
+    <img src="https://img.shields.io/badge/SHOP_EMRALDTECH-Limited%20Drops-%237B1E1E?style=flat-square">
+  </a>
 </p>
+
+---
+
+## 📌 Table of Contents
+- [👾 Moderator Intake](#-moderator-intake--july-2025)
+- [🔥 July Update](#-july-2025-update)
+- [🛍️ Etsy Store](#-emraldtech-official-etsy-store--now-live)
+- [🚨 Join the Mission](#-join-the-mission)
+- [💥 Discord Launch](#-scanonai-discord-is-live)
+- [🤝 Strategic Alliance](#-strategic-alliance-emrald--unlimited-coverage)
+- [⚙️ Tools of Emrald](#-tools-of-emrald)
+- [🧠 Astra](#-the-overseer--astra)
+- [🪙 Bitcoin ATMs](#-bitcoin-atms--coming-soon)
+- [🩸 The Emrald Domain](#-the-emrald-domain)
+- [🕯 Blood Pact](#-join-the-blood-pact-soon)
+- [👤 About Me](#-about-me)
 
 ---
 
@@ -73,6 +91,10 @@ We’re launching **limited-run drops** inspired by SCANON.AI, Astra, and The So
 Built for field ops, collectors, and those who work in the dark.
 
 🛒 [Visit the Shop](https://www.etsy.com/shop/Emraldtech?ref=dashboard-header)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skyla643/emrldconatm/main/AB9E6A3A-7E1E-469D-9FA5-11D7742E00C0.JPG" width="360px" alt="Product Preview">
+</p>
 
 ---
 
@@ -170,7 +192,9 @@ Anonymous crypto ATMs in Stamford, CT.
 ## 🕯 Join the Blood Pact *(Soon)*
 
 A hidden terminal. A challenge of faith.  
-> **This is more than a repo. It’s a belief system wrapped in code.** 
+> **This is more than a repo. It’s a belief system wrapped in code.**
+
+---
 
 ## 👤 About Me
 
@@ -178,5 +202,4 @@ A hidden terminal. A challenge of faith.
 I build tools for those who vanish by design.
 
 📫 [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)  
-🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev)
-``` 
+🌐 [https://emraldproph.pages.dev](https://emraldproph.pages.dev) 
