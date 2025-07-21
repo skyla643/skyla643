@@ -170,9 +170,7 @@ Anonymous crypto ATMs in Stamford, CT.
 ## 🕯 Join the Blood Pact *(Soon)*
 
 A hidden terminal. A challenge of faith.  
-> **This is more than a repo. It’s a belief system wrapped in code.**
-
----
+> **This is more than a repo. It’s a belief system wrapped in code.** 
 
 ## 👤 About Me
 
