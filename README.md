@@ -30,6 +30,7 @@
 - [🛍️ Etsy Store](#-emraldtech-official-etsy-store--now-live)
 - [🚨 Join the Mission](#-join-the-mission)
 - [💥 Discord Launch](#-scanonai-discord-is-live)
+- [🎁 Raffle — Win $100 in Bitcoin](#-scanonai-raffle--win-100-in-bitcoin)
 - [🤝 Strategic Alliance](#-strategic-alliance-emrald--unlimited-coverage)
 - [⚙️ Tools of Emrald](#-tools-of-emrald)
 - [🧠 Astra](#-the-overseer--astra)
@@ -132,6 +133,37 @@ Our secure Discord command center is live. Join to:
 
 📆 Launch Date: **June 27, 2025**  
 🔗 [Join the SCANON.AI Discord](https://discord.gg/Qy7SA9bDEy)
+
+---
+
+## 🎁 SCANON.AI Raffle — Win $100 in Bitcoin
+
+> _"Privacy is power. Let’s reward those who walk the line."_
+
+We’re celebrating the early rise of SCANON.AI with a crypto giveaway for our growing Discord Syndicate.
+
+### 🪙 Prize
+- **$100 in Bitcoin** to one randomly selected supporter  
+- **Deadline:** September 30, 2025 @ 11:59 PM EST
+
+### ✅ How to Enter
+- Fill out this form via Gleam:  
+  🔗 [Enter the Raffle](https://gleam.io/gnNJI/win-100-in-bitcoin-scanonai-discord-raffle)
+- Join our community:  
+  🔗 [SCANON.AI Discord](https://discord.gg/Qy7SA9bDEy)
+
+📝 Entry Instructions:
+- **First Name** → Your real name (internal use only)  
+- **Last Name** → Your **Discord handle** (e.g. `Skyla#6432`)  
+- **Email** → Required to confirm identity & send winnings  
+
+📌 One entry per person. Gleam filters duplicates via device/IP.
+
+### 📅 Where It’s Happening
+> Hosted live inside `#crypto-n-shit`  
+→ With countdowns, Q&A, and RSVP tracking via [Sesh Bot](https://sesh.fyi)
+
+Join. Enter. Win. Blur everything.
 
 ---
 
