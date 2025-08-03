@@ -1,6 +1,19 @@
-<h1 align="center" style="font-family:'UnifrakturCook', serif; color:#7B1E1E; font-size: 3em;">
-  🛡️ SCANON.AI — <em>The Eye That Forgets</em> 🛡️
+<h1 align="center" style="font-family:'UnifrakturCook', serif; color:#7B1E1E; font-size: 3.2em;">
+  <img src="https://your-banner-gif-link.gif" width="100%">
+  <br> 🛡️ SCANON.AI — <em>The Eye That Forgets</em> 🛡️
 </h1>
+
+<p align="center">
+  <a href="https://discord.gg/Qy7SA9bDEy">
+    <img src="https://img.shields.io/discord/1234567890?logo=discord&label=Discord%20Syndicate&color=7B1E1E&style=for-the-badge">
+  </a>
+  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
+    <img src="https://img.shields.io/badge/SHOP_EMRALDTECH-Limited%20Drops-%237B1E1E?style=for-the-badge">
+  </a>
+  <a href="#-join-the-mission">
+    <img src="https://img.shields.io/badge/FUNDING%20IN%20PROGRESS-%F0%9F%92%B8-critical?style=for-the-badge&color=red">
+  </a>
+</p>
 
 <p align="center">
   <em>"The tools we build are the freedoms we keep."</em><br>
@@ -11,22 +24,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGV5aXFkdXc1cDd0MGN6azlwY3IzZDNseG1lYWQzMG12bTkyZG02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SmaYvew52UlC9MmB6l/giphy.gif" width="360px" alt="Blur in Action">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FUNDING%20IN%20PROGRESS-%F0%9F%92%B8%20SCANON.AI-critical?style=for-the-badge&color=7B1E1E">
-</p>
-
-<p align="center">
-  🧷 <strong>NOW LIVE:</strong> <a href="#emraldtech-official-etsy-store--now-live">EmraldTech on Etsy</a>  
-  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
-    <img src="https://img.shields.io/badge/SHOP_EMRALDTECH-Limited%20Drops-%237B1E1E?style=flat-square">
-  </a>
-</p>
-
 ---
 
 ## 📌 Table of Contents
-- [👾 Moderator Intake](#-moderator-intake--july-2025)
-- [🔥 July Update](#-july-2025-update)
+- [🔥 August 2025 Update](#-august-2025-update)
 - [🛍️ Etsy Store](#-emraldtech-official-etsy-store--now-live)
 - [🚨 Join the Mission](#-join-the-mission)
 - [💥 Discord Launch](#-scanonai-discord-is-live)
@@ -41,33 +42,15 @@
 
 ---
 
-## 👾 Moderator Intake — July 2025
+## 🔥 August 2025 Update
 
-We’ve assembled the **SCANON.AI Discord Syndicate** — a tactical layer beneath the surface.
-
-Applicants came from everywhere:  
-From **large-scale ops** to **ghosts in the machine**.  
-This isn’t just a mod role — it’s an alliance.
-
-📣 **First wave announced July 11** — Now active  
-💡 You can still apply if you're aligned with **privacy, autonomy, and high-signal culture**.
-
-💸 **$100 crypto giveaway** when we reach 100 members  
-→ Any coin. Any wallet. Just for being early.
-
-🔗 Apply: [https://form.typeform.com/to/LI3GzZhi](https://form.typeform.com/to/LI3GzZhi)  
-🧭 Join: [https://discord.gg/Qy7SA9bDEy](https://discord.gg/Qy7SA9bDEy)
-
----
-
-## 🔥 July 2025 Update
-
-Development of **Scanon.ai** is active and accelerating.  
-We're focused on offline anonymization tools for real-world privacy defense.
+🚨 **BETA LAUNCH ANNOUNCEMENT** 🚨  
+**SCANON.AI Beta goes live August 24, 2025.**  
 
 > **No metadata. No internet. No trace.**
 
-The Discord Syndicate launched **June 27, 2025** — the rest is under wraps for now.
+We are **not currently taking moderators** – the Syndicate is fully staffed until public launch.  
+Stay tuned for access details and first wave invites.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW44dmVwN2E5Z3Y4bXIzenVkeGJ4b3NidDBpYWd1Mm40cTBxMDJ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A1hoXFgZ1NFwQ/giphy.gif" width="440px">
@@ -122,6 +105,18 @@ Investigative journalists • Human rights orgs • Cybersecurity pros • Priva
 
 ---
 
+### 💼 Investor & Sponsor Access
+
+SCANON.AI is seeking **strategic partners** to bring privacy-first anonymization tools to scale.
+
+📊 **Funding Goal:** $300K seed (2025–2026)  
+🧠 **Ask:** Development sponsorships, security audit funding, and early-stage angel backing
+
+📥 **Contact for Deck & Details:**  
+[Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
+
+---
+
 ## 💥 SCANON.AI Discord is Live
 
 > Not a community. A syndicate.
@@ -151,19 +146,6 @@ We’re celebrating the early rise of SCANON.AI with a crypto giveaway for our g
   🔗 [Enter the Raffle](https://gleam.io/gnNJI/win-100-in-bitcoin-scanonai-discord-raffle)
 - Join our community:  
   🔗 [SCANON.AI Discord](https://discord.gg/Qy7SA9bDEy)
-
-📝 Entry Instructions:
-- **First Name** → Your real name (internal use only)  
-- **Last Name** → Your **Discord handle** (e.g. `Skyla#6432`)  
-- **Email** → Required to confirm identity & send winnings  
-
-📌 One entry per person. Gleam filters duplicates via device/IP.
-
-### 📅 Where It’s Happening
-> Hosted live inside `#crypto-n-shit`  
-→ With countdowns, Q&A, and RSVP tracking via [Sesh Bot](https://sesh.fyi)
-
-Join. Enter. Win. Blur everything.
 
 ---
 
