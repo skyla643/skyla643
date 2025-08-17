@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family:'Cinzel', serif; color:#00A86B; font-size: 3.2em;">
-  <img src="https://your-banner-gif-link.gif" width="100%">
-  <br> 🛡️ EMRALD TECHNOLOGIES — <em>Si vis pacem, para bellum</em> 🛡️
+  🛡️ EMRALD TECHNOLOGIES — <em>Si vis pacem, para bellum</em> 🛡️
 </h1>
 
 <p align="center">
@@ -58,23 +57,11 @@ Each pillar is an interoperable tool — a weapon in a larger arsenal.
 —all without metadata, cloud reliance, or leaks.  
 
 ### 📌 Built For:
-Investigative journalists • Human rights orgs • EU public sector (FOI/GDPR) • Police evidence units  
+Investigative journalists • Human rights orgs • Newsrooms • Police evidence units  
 
 📆 **Beta Launch:** August 24, 2025  
 🔗 [Join the Scanon Discord Syndicate](https://discord.gg/Qy7SA9bDEy)  
 📥 [Pitch Deck & Partnerships](mailto:Emrald_Technologies3301@proton.me)
-
----
-
-## 🌍 Operations HQ: Estonia
-
-From **Tallinn to the world**:  
-- Instant EU company (OÜ) with e-Residency  
-- Tax model: reinvested profits tax-free; only distributions taxed (22% CIT 2025+)  
-- Cyber ecosystem density: NATO CCDCOE, CR14 ranges, DIANA accelerator hub  
-- Grants & accelerators: DIANA (€100k–€400k non-dilutive), EIS innovation vouchers, applied-research deep-tech funds  
-
-🎯 **90-Day Playbook**: Form OÜ → Land in cyber cluster → Pitch DIANA → Sell Range & Privacy Bundles  
 
 ---
 
@@ -83,10 +70,9 @@ From **Tallinn to the world**:
 **Funding Goal (2025–2026):** €300K seed  
 **Use of Funds:**  
 - Range content (SP + Cathedral) pilots with universities, SOCs, and MSSPs  
-- Scanon.ai deployment in EU public sector & media workflows  
+- Expansion of Scanon.ai deployments with institutional partners  
 - Security audits, CE compliance, and contractor expansion  
 
-📊 Partnership Channels: NATO DIANA, Estonian CyberTech cluster, EU municipalities, newsrooms.  
 📥 Investor & sponsor access: [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
 
 ---
@@ -124,7 +110,6 @@ I build systems for those who vanish by design.
 ---
 
 <p align="center">
-  <img src="https://your-orb-laurel-logo.png" width="120px"><br>
   <em>SI VIS PACEM, PARA BELLUM</em><br>
   © Emrald Technologies
 </p> 
