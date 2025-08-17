@@ -44,24 +44,33 @@ Each pillar is an interoperable tool — a weapon in a larger arsenal.
 
 ---
 
-## 🤝 Strategic Alliance: SCANON.AI
+## 🤝 Strategic Alliance: Unlimited Coverage × Emrald
 
-> Not a pillar — a partnership.  
-> *Unlimited Coverage × Emrald*
+Some collaborations are short-lived. This one is not.  
 
-**Scanon.ai** is an offline anonymization engine. It detects and erases:  
+**Unlimited Coverage** and **Emrald Technologies** have built a long-standing partnership grounded in trust, strategy, and execution. Together we’re shaping the next generation of security — practical, privacy-first, and uncompromising.  
+
+### Flagship Collaboration: **Scanon.ai**
+An offline anonymization engine. It detects and erases:  
 - 🧑 Faces  
 - 🧩 Tattoos  
 - 🚘 License Plates  
 
 —all without metadata, cloud reliance, or leaks.  
 
-### 📌 Built For:
-Investigative journalists • Human rights orgs • Newsrooms • Police evidence units  
-
 📆 **Beta Launch:** August 24, 2025  
 🔗 [Join the Scanon Discord Syndicate](https://discord.gg/Qy7SA9bDEy)  
 📥 [Pitch Deck & Partnerships](mailto:Emrald_Technologies3301@proton.me)
+
+### Looking Ahead
+Our joint roadmap includes:  
+- Privacy-preserving workflows for investigative journalism and evidence handling  
+- Scalable redaction tools for public sector security and compliance  
+- A new wave of tactical cybersecurity tools, born from the field, built for resilience  
+
+📡 Follow the founders:  
+- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
+- [@unlimited.coverage](https://www.instagram.com/unlimited.coverage/)
 
 ---
 
