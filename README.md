@@ -62,6 +62,23 @@ An offline anonymization engine. It detects and erases:
 🔗 [Join the Scanon Discord Syndicate](https://discord.gg/Qy7SA9bDEy)  
 📥 [Pitch Deck & Partnerships](mailto:Emrald_Technologies3301@proton.me)
 
+---
+
+### ⚔️ Moderator Team Expansion
+The Scanon.ai community is scaling fast — and we’re expanding the **moderator team**.  
+We’re seeking one more moderator to join our mission:  
+
+**We’re looking for someone who:**  
+- 🌍 Is based in a **European or American time zone**  
+- 🤝 Shares our community values: **high-trust, privacy-first, signal > noise**  
+- 👀 Can help with **chat moderation, raid/alt detection, and keeping discussions constructive**  
+- 🛠 Has experience with Discord tools (Carl-bot, Dyno, Wick, etc.) or the drive to learn  
+
+🔑 **Applications will open soon — stay tuned.**  
+This isn’t just moderation; it’s shaping the future of Scanon.ai’s culture. 🖤  
+
+---
+
 ### Looking Ahead
 Our joint roadmap includes:  
 - Privacy-preserving workflows for investigative journalism and evidence handling  
