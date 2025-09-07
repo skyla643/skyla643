@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="https://github.com/skyla643/Scanon.ai-job-add/blob/main/ChatGPT%20Image%20Sep%207%2C%202025%2C%2011_33_38%20AM.png?raw=true" alt="Scanon.ai Job Listing Banner" width="600">
+</p>
+
+<p align="center">
+  <img src="A_recruitment_digital_photograph_with_overlaid_tex.png" alt="Scanon.ai Job Ad" width="600">
+</p>
+
+<h2 align="center" style="color:#7B1E1E;">
+  🚨 Scanon.ai is Hiring — Help Shape the Future of Privacy 🚨
+</h2>
+
+<p align="center">
+  We’re looking for developers and engineers to join us in building a <strong>cutting-edge anonymization tool</strong>.<br>
+  Scanon.ai detects and blurs <strong>faces, tattoos, and license plates</strong> in images and video — giving people control over their identities in a world of surveillance.<br><br>
+  👉 <a href="https://makeform.ai/f/Bxz0EnUV"><strong>Apply Here</strong></a>
+</p>
+
+---
+
 <h1 align="center" style="font-family:'Cinzel', serif; color:#00A86B; font-size: 3.2em;">
   🛡️ EMRALD TECHNOLOGIES — <em>Si vis pacem, para bellum</em> 🛡️
 </h1>
