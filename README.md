@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="A_recruitment_digital_photograph_with_overlaid_tex.png" alt="Scanon.ai Job Ad" width="600">
+  
 </p>
 
 <h2 align="center" style="color:#7B1E1E;">
