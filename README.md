@@ -13,6 +13,25 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/skyla643/astrascanpic/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2003_23_02%20PM.png?raw=true" alt="Astra introduces Scanon" width="650" style="border-radius: 10px;">
+</p>
+
+<h2 align="center" style="color:#7B1E1E;">
+  🔱 ASTRA INTRODUCES — SCANON HAS ARRIVED 🔱
+</h2>
+
+<p align="center">
+  <strong>The future of privacy is offline.</strong><br>
+  Scanon — built by <strong>Emrald Technologies</strong> × <strong>Unlimited Coverage</strong> — is now live for Windows.<br><br>
+  Detect and blur <strong>faces, tattoos, and license plates</strong> instantly, with <strong>no cloud, no metadata, and no leaks</strong>.<br>
+  Designed for journalists, investigators, human rights defenders, and those who value digital freedom.<br><br>
+  🪞 <a href="https://drive.google.com/file/d/1MvQVQREuIaiiOzU533fDKgpM7NxAgUlS/view?usp=sharing" target="_blank"><strong>Download Scanon for Windows</strong></a><br>
+  💻 Mac + Linux releases coming soon.
+</p>
+
+---
+
 <h1 align="center" style="font-family:'Cinzel', serif; color:#00A86B; font-size: 3.2em;">
   🛡️ EMRALD TECHNOLOGIES — <em>Si vis pacem, para bellum</em> 🛡️
 </h1>
