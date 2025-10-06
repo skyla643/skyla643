@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://github.com/skyla643/Scanon.ai-job-add/blob/main/ChatGPT%20Image%20Sep%207%2C%202025%2C%2011_33_38%20AM.png?raw=true" alt="Scanon.ai Job Listing Banner" width="600">
+  <img src="https://github.com/skyla643/picofchar/blob/main/G2mTBeuWUAANogQ.jpg" alt="Charlie Barnes — COO of Emrald" width="220" style="border-radius: 10px;">
 </p>
 
-<p align="center">
-  
-</p>
-
-<h2 align="center" style="color:#7B1E1E;">
-  🚨 Scanon.ai is Hiring — Help Shape the Future of Privacy 🚨
-</h2>
+<h3 align="center" style="color:#00A86B;">
+  Welcoming <strong>Charlie Barnes</strong> — Chief Operating Officer of Emrald
+</h3>
 
 <p align="center">
-  We’re looking for developers and engineers to join us in building a <strong>cutting-edge anonymization tool</strong>.<br>
-  Scanon.ai detects and blurs <strong>faces, tattoos, and license plates</strong> in images and video — giving people control over their identities in a world of surveillance.<br><br>
-  👉 <a href="https://makeform.ai/f/Bxz0EnUV"><strong>Apply Here</strong></a>
+  His leadership and precision embody the spirit of Emrald — discipline, innovation, and purpose.<br>
+  Follow his work → <a href="https://www.instagram.com/clabarness?igsh=MnJhNTkybHc4M2Zr" target="_blank">@clabarness</a>
 </p>
 
 ---
@@ -158,4 +153,4 @@ I build systems for those who vanish by design.
 <p align="center">
   <em>SI VIS PACEM, PARA BELLUM</em><br>
   © Emrald Technologies
-</p> 
+</p>
