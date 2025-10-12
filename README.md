@@ -1,4 +1,22 @@
 <p align="center">
+  <img src="https://github.com/skyla643/astrascanpic/blob/main/A_digital_painting_in_a_cyberpunk_and_dark_fantasy.png?raw=true" alt="Astra — Emrald Technologies" width="650" style="border-radius: 10px;">
+</p>
+
+<h2 align="center" style="color:#00A86B;">
+  🌐 EMRALD.TECH IS NOW LIVE — OUR DOMAIN HAS AWAKENED 🌐
+</h2>
+
+<p align="center">
+  After months of building, refining, and fighting through every obstacle, <strong>Emrald Technologies</strong> officially stands on its own ground.  
+  You can now find us directly at <a href="https://emrald.tech" target="_blank"><strong>https://emrald.tech</strong></a> — the new home of ethical intelligence and privacy-first technology.  
+  <br><br>
+  This moment marks more than a launch — it’s the embodiment of a vision: <em>autonomy, ethics, and beauty through discipline.</em><br><br>
+  Thank you to everyone who stood by us through the darkness. The Age of Emrald has begun. ⚔️
+</p>
+
+---
+
+<p align="center">
   <img src="https://github.com/skyla643/picofchar/blob/main/G2mTBeuWUAANogQ.jpg" alt="Charlie Barnes — COO of Emrald" width="220" style="border-radius: 10px;">
 </p>
 
@@ -153,7 +171,7 @@ Limited-run hardware & lore drops — built for the field, collectors, and those
 ---
 
 ## 🕸️ Access the Domain
-- 🌐 [emraldproph.pages.dev](https://emraldproph.pages.dev)  
+- 🌐 [emrald.tech](https://emrald.tech)  
 - 🕳️ [emralddomain.org](http://emralddomain.org) *(launching soon)*  
 
 ---
