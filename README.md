@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/skyla643/astrascanpic/blob/main/A_digital_painting_in_a_cyberpunk_and_dark_fantasy.png?raw=true" alt="Astra — Emrald Technologies" width="650" style="border-radius: 10px;">
-</p>
-
 <h2 align="center" style="color:#00A86B;">
   🌐 EMRALD.TECH IS NOW LIVE — OUR DOMAIN HAS AWAKENED 🌐
 </h2>
