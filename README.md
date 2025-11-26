@@ -1,3 +1,24 @@
+<h2 align="center" style="color:#7B1E1E;">
+  🚨 SCANON IS NOW LIVE — DESKTOP + WEB APP LAUNCHED! 🚨
+</h2>
+
+<p align="center">
+  <strong>Privacy without compromise. Now available everywhere you need it.</strong><br><br>
+  
+  🖥️ <strong>DESKTOP BETA NOW AVAILABLE!</strong><br>
+  Download Scanon for Windows via Google Drive — fully offline, zero cloud dependency.<br>
+  <a href="https://drive.google.com/file/d/1MvQVQREuIaiiOzU533fDKgpM7NxAgUlS/view?usp=sharing" target="_blank"><strong>→ Download Scanon Desktop (Windows)</strong></a><br><br>
+  
+  🌐 <strong>WEB APP LAUNCHED!</strong><br>
+  Access Scanon directly in your browser — instant anonymization, no installation required.<br>
+  <a href="https://scanon.ai" target="_blank"><strong>→ Launch Scanon Web App</strong></a><br><br>
+  
+  📡 <strong>API COMING SOON</strong> — Integrate Scanon directly into your workflows.<br>
+  Mac + Linux desktop releases on the horizon.
+</p>
+
+---
+
 <h2 align="center" style="color:#00A86B;">
   🌐 EMRALD.TECH IS NOW LIVE — OUR DOMAIN HAS AWAKENED 🌐
 </h2>
@@ -6,15 +27,11 @@
   After months of building, refining, and fighting through every obstacle, <strong>Emrald Technologies</strong> officially stands on its own ground.  
   You can now find us directly at <a href="https://emrald.tech" target="_blank"><strong>https://emrald.tech</strong></a> — the new home of ethical intelligence and privacy-first technology.  
   <br><br>
-  This moment marks more than a launch — it’s the embodiment of a vision: <em>autonomy, ethics, and beauty through discipline.</em><br><br>
+  This moment marks more than a launch — it's the embodiment of a vision: <em>autonomy, ethics, and beauty through discipline.</em><br><br>
   Thank you to everyone who stood by us through the darkness. The Age of Emrald has begun. ⚔️
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/skyla643/picofchar/blob/main/G2mTBeuWUAANogQ.jpg" alt="Charlie Barnes — COO of Emrald" width="220" style="border-radius: 10px;">
-</p>
 
 <h3 align="center" style="color:#00A86B;">
   Welcoming <strong>Charlie Barnes</strong> — Chief Operating Officer of Emrald
@@ -26,10 +43,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/skyla643/astrascanpic/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2003_23_02%20PM.png?raw=true" alt="Astra introduces Scanon" width="650" style="border-radius: 10px;">
-</p>
 
 <h2 align="center" style="color:#7B1E1E;">
   🔱 ASTRA INTRODUCES — SCANON HAS ARRIVED 🔱
@@ -63,7 +76,7 @@
 </p>
 
 <p align="center">
-  <em>"You can’t enslave a mind that has refused to be indexed."</em><br>
+  <em>"You can't enslave a mind that has refused to be indexed."</em><br>
   — <strong>Emrald Manifesto</strong>
 </p>
 
@@ -72,20 +85,20 @@
 ## 🎯 Mission
 Emrald builds **privacy-first cyber tools** for journalists, operators, human rights defenders, and anyone living off the grid by necessity or choice.  
 
-We don’t ask permission.  
-We don’t leave traces.  
+We don't ask permission.  
+We don't leave traces.  
 > **Peace by readiness. Readiness by mastery.**
 
 ---
 
 ## 🏛 The Five Pillars of Emrald
 
-> *Instrumenta Operis* — “Instruments of the Work”
+> *Instrumenta Operis* — "Instruments of the Work"
 
 Each pillar is an interoperable tool — a weapon in a larger arsenal.
 
 - 🧿 **Solomonic Protocol** — Ritual terminal for red/blue team training and simulation. Summon (offense). Consult (defense). Every action logged in an encrypted grimoire.  
-- 📖 **The Hacker’s Book** — A collaborative cyber range: real-time IDE, forums, CTF challenges, gamified certifications.  
+- 📖 **The Hacker's Book** — A collaborative cyber range: real-time IDE, forums, CTF challenges, gamified certifications.  
 - 🖥 **Love & Havoc** — Hardened SSH configs, deception honeypots, and OSINT utilities for secure comms and forensic capture.  
 - 🛡 **Hacker OS USB** — Bootable offline OS preloaded with forensics, incident response, and penetration testing tools. Field-ready, CE-compliant.  
 - ⛪ **Cathedral** — A tamper-proof archive for preserving sensitive knowledge under censorship or attack. Provenance, OCR, translation, mirrored redundancy.
@@ -96,7 +109,7 @@ Each pillar is an interoperable tool — a weapon in a larger arsenal.
 
 Some collaborations are short-lived. This one is not.  
 
-**Unlimited Coverage** and **Emrald Technologies** have built a long-standing partnership grounded in trust, strategy, and execution. Together we’re shaping the next generation of security — practical, privacy-first, and uncompromising.  
+**Unlimited Coverage** and **Emrald Technologies** have built a long-standing partnership grounded in trust, strategy, and execution. Together we're shaping the next generation of security — practical, privacy-first, and uncompromising.  
 
 ### Flagship Collaboration: **Scanon.ai**
 An offline anonymization engine. It detects and erases:  
@@ -113,17 +126,17 @@ An offline anonymization engine. It detects and erases:
 ---
 
 ### ⚔️ Moderator Team Expansion
-The Scanon.ai community is scaling fast — and we’re expanding the **moderator team**.  
-We’re seeking one more moderator to join our mission:  
+The Scanon.ai community is scaling fast — and we're expanding the **moderator team**.  
+We're seeking one more moderator to join our mission:  
 
-**We’re looking for someone who:**  
+**We're looking for someone who:**  
 - 🌍 Is based in a **European or American time zone**  
 - 🤝 Shares our community values: **high-trust, privacy-first, signal > noise**  
 - 👀 Can help with **chat moderation, raid/alt detection, and keeping discussions constructive**  
 - 🛠 Has experience with Discord tools (Carl-bot, Dyno, Wick, etc.) or the drive to learn  
 
 🔑 **Applications will open soon — stay tuned.**  
-This isn’t just moderation; it’s shaping the future of Scanon.ai’s culture. 🖤  
+This isn't just moderation; it's shaping the future of Scanon.ai's culture. 🖤  
 
 ---
 
