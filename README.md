@@ -3,18 +3,18 @@
 </h2>
 
 <p align="center">
-  <strong>Privacy without compromise. Now available everywhere you need it.</strong><br><br>
+  <strong>Privacy without compromise. Available wherever you need it.</strong><br><br>
   
-  🖥️ <strong>DESKTOP BETA NOW AVAILABLE!</strong><br>
-  Download Scanon for Windows via Google Drive — fully offline, zero cloud dependency.<br>
+  🖥️ <strong>DESKTOP BETA AVAILABLE NOW</strong><br>
+  Fully offline. Zero cloud dependency. Built for journalists, investigators, and human rights defenders.<br>
   <a href="https://drive.google.com/file/d/1MvQVQREuIaiiOzU533fDKgpM7NxAgUlS/view?usp=sharing" target="_blank"><strong>→ Download Scanon Desktop (Windows)</strong></a><br><br>
   
-  🌐 <strong>WEB APP LAUNCHED!</strong><br>
-  Access Scanon directly in your browser — instant anonymization, no installation required.<br>
+  🌐 <strong>WEB APP LAUNCHED</strong><br>
+  Instant anonymization right from your browser — no installation required.<br>
   <a href="https://scanon.ai" target="_blank"><strong>→ Launch Scanon Web App</strong></a><br><br>
   
-  📡 <strong>API COMING SOON</strong> — Integrate Scanon directly into your workflows.<br>
-  Mac + Linux desktop releases on the horizon.
+  📡 <strong>API COMING SOON</strong> — Integrate Scanon into your workflows.<br>
+  Mac + Linux desktop releases are on the way.
 </p>
 
 ---
@@ -24,11 +24,15 @@
 </h2>
 
 <p align="center">
-  After months of building, refining, and fighting through every obstacle, <strong>Emrald Technologies</strong> officially stands on its own ground.  
-  You can now find us directly at <a href="https://emrald.tech" target="_blank"><strong>https://emrald.tech</strong></a> — the new home of ethical intelligence and privacy-first technology.  
-  <br><br>
-  This moment marks more than a launch — it's the embodiment of a vision: <em>autonomy, ethics, and beauty through discipline.</em><br><br>
-  Thank you to everyone who stood by us through the darkness. The Age of Emrald has begun. ⚔️
+  After months of building and refining, <strong>Emrald Technologies</strong> stands fully autonomous.<br>
+  Our new digital home is now live at<br>
+  <a href="https://emrald.tech" target="_blank"><strong>https://emrald.tech</strong></a>.<br><br>
+
+  This moment is more than a launch — it is the embodiment of a vision:<br>
+  <em>autonomy, ethics, and beauty through discipline.</em><br><br>
+
+  Thank you to everyone who stood by us through the darkness.<br>
+  <strong>The Age of Emrald has begun.</strong> ⚔️
 </p>
 
 ---
@@ -38,7 +42,7 @@
 </h3>
 
 <p align="center">
-  His leadership and precision embody the spirit of Emrald — discipline, innovation, and purpose.<br>
+  His discipline, strategy, and operational excellence define the Emrald ethos.<br>
   Follow his work → <a href="https://www.instagram.com/clabarness?igsh=MnJhNTkybHc4M2Zr" target="_blank">@clabarness</a>
 </p>
 
@@ -50,11 +54,13 @@
 
 <p align="center">
   <strong>The future of privacy is offline.</strong><br>
-  Scanon — built by <strong>Emrald Technologies</strong> × <strong>Unlimited Coverage</strong> — is now live for Windows.<br><br>
-  Detect and blur <strong>faces, tattoos, and license plates</strong> instantly, with <strong>no cloud, no metadata, and no leaks</strong>.<br>
-  Designed for journalists, investigators, human rights defenders, and those who value digital freedom.<br><br>
+  Built by <strong>Emrald Technologies</strong> × <strong>Unlimited Coverage</strong>, Scanon is now live for Windows.<br><br>
+
+  Detect and blur <strong>faces, tattoos, and license plates</strong> instantly — with<br>
+  <strong>no cloud, no metadata, and no leaks.</strong><br><br>
+
   🪞 <a href="https://drive.google.com/file/d/1MvQVQREuIaiiOzU533fDKgpM7NxAgUlS/view?usp=sharing" target="_blank"><strong>Download Scanon for Windows</strong></a><br>
-  💻 Mac + Linux releases coming soon.
+  💻 Mac + Linux builds coming soon.
 </p>
 
 ---
@@ -83,68 +89,63 @@
 ---
 
 ## 🎯 Mission
-Emrald builds **privacy-first cyber tools** for journalists, operators, human rights defenders, and anyone living off the grid by necessity or choice.  
+Emrald builds **privacy-first cyber tools** for journalists, operators, human rights defenders, and anyone who must live off the grid by necessity or design.  
 
-We don't ask permission.  
-We don't leave traces.  
+We don’t ask permission.  
+We don’t leave traces.  
 > **Peace by readiness. Readiness by mastery.**
 
 ---
 
-## 🏛 The Five Pillars of Emrald
-
+## 🏛 The Five Pillars of Emrald  
 > *Instrumenta Operis* — "Instruments of the Work"
 
 Each pillar is an interoperable tool — a weapon in a larger arsenal.
 
-- 🧿 **Solomonic Protocol** — Ritual terminal for red/blue team training and simulation. Summon (offense). Consult (defense). Every action logged in an encrypted grimoire.  
-- 📖 **The Hacker's Book** — A collaborative cyber range: real-time IDE, forums, CTF challenges, gamified certifications.  
-- 🖥 **Love & Havoc** — Hardened SSH configs, deception honeypots, and OSINT utilities for secure comms and forensic capture.  
-- 🛡 **Hacker OS USB** — Bootable offline OS preloaded with forensics, incident response, and penetration testing tools. Field-ready, CE-compliant.  
-- ⛪ **Cathedral** — A tamper-proof archive for preserving sensitive knowledge under censorship or attack. Provenance, OCR, translation, mirrored redundancy.
+- 🧿 **Solomonic Protocol** — Ritual terminal for red/blue team training. Summon (offense). Consult (defense). Logged in an encrypted grimoire.  
+- 📖 **The Hacker's Book** — Collaborative cyber range: IDE, CTFs, forums, gamified certifications.  
+- 🖥 **Love & Havoc** — Hardened SSH configs, deception honeypots, OSINT utilities for secure comms and forensic capture.  
+- 🛡 **Hacker OS USB** — Bootable offline OS with forensics, IR, and pentesting tools. CE-compliant and field-ready.  
+- ⛪ **Cathedral** — Tamper-proof archive for preserving sensitive knowledge under censorship or attack.
 
 ---
 
 ## 🤝 Strategic Alliance: Unlimited Coverage × Emrald
 
-Some collaborations are short-lived. This one is not.  
-
-**Unlimited Coverage** and **Emrald Technologies** have built a long-standing partnership grounded in trust, strategy, and execution. Together we're shaping the next generation of security — practical, privacy-first, and uncompromising.  
+A long-term alliance built on trust, discipline, and execution.  
 
 ### Flagship Collaboration: **Scanon.ai**
-An offline anonymization engine. It detects and erases:  
+An offline anonymization engine that detects and erases:  
 - 🧑 Faces  
 - 🧩 Tattoos  
 - 🚘 License Plates  
 
-—all without metadata, cloud reliance, or leaks.  
+—all without metadata or cloud reliance.  
 
-📆 **Beta Launch:** August 24, 2025  
-🔗 [Join the Scanon Discord Syndicate](https://discord.gg/Qy7SA9bDEy)  
-📥 [Pitch Deck & Partnerships](mailto:Emrald_Technologies3301@proton.me)
+📆 **Beta Launch:** August 2025  
+🔗 [Join the Scanon Syndicate](https://discord.gg/Qy7SA9bDEy)  
+📥 Contact: [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
 
 ---
 
 ### ⚔️ Moderator Team Expansion
-The Scanon.ai community is scaling fast — and we're expanding the **moderator team**.  
-We're seeking one more moderator to join our mission:  
+Scanon’s community is scaling — and we’re adding one more moderator.
 
-**We're looking for someone who:**  
-- 🌍 Is based in a **European or American time zone**  
-- 🤝 Shares our community values: **high-trust, privacy-first, signal > noise**  
-- 👀 Can help with **chat moderation, raid/alt detection, and keeping discussions constructive**  
-- 🛠 Has experience with Discord tools (Carl-bot, Dyno, Wick, etc.) or the drive to learn  
+**Ideal candidate:**  
+- 🌍 Based in the US or EU  
+- 🤝 High-trust, privacy-first, signal > noise  
+- 👀 Experienced with Discord moderation (Carl, Dyno, Wick) or willing to learn  
+- 🛠 Familiar with raid/alt detection & community safety  
 
-🔑 **Applications will open soon — stay tuned.**  
-This isn't just moderation; it's shaping the future of Scanon.ai's culture. 🖤  
+🔑 Applications opening soon.
 
 ---
 
 ### Looking Ahead
 Our joint roadmap includes:  
-- Privacy-preserving workflows for investigative journalism and evidence handling  
-- Scalable redaction tools for public sector security and compliance  
-- A new wave of tactical cybersecurity tools, born from the field, built for resilience  
+- Privacy-preserving workflows for journalism and evidence handling  
+- Scalable redaction tools for institutional and public-sector deployments  
+- Tactical cybersecurity tools born from real-world field work  
 
 📡 Follow the founders:  
 - [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)  
@@ -156,11 +157,11 @@ Our joint roadmap includes:
 
 **Funding Goal (2025–2026):** €300K seed  
 **Use of Funds:**  
-- Range content (SP + Cathedral) pilots with universities, SOCs, and MSSPs  
-- Expansion of Scanon.ai deployments with institutional partners  
+- Cathedral/Solomonic Protocol pilots with SOCs, universities, and MSSPs  
+- Scaling Scanon.ai deployments for institutional partners  
 - Security audits, CE compliance, and contractor expansion  
 
-📥 Investor & sponsor access: [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
+📥 Investor access: [Emrald_Technologies3301@proton.me](mailto:Emrald_Technologies3301@proton.me)
 
 ---
 
@@ -172,16 +173,14 @@ Our joint roadmap includes:
   </a>
 </p>
 
-Stickers. Shields. Summoning tools.  
-Limited-run hardware & lore drops — built for the field, collectors, and those who work in the dark.  
-
+Limited hardware drops, lore pieces, stickers, shields, and tools — built for the field and for those who operate in the dark.  
 🛒 [Visit EmraldTech on Etsy](https://www.etsy.com/shop/Emraldtech?ref=dashboard-header)
 
 ---
 
 ## 🕸️ Access the Domain
-- 🌐 [emrald.tech](https://emrald.tech)  
-- 🕳️ [emralddomain.org](http://emralddomain.org) *(launching soon)*  
+- 🌐 https://emrald.tech  
+- 🕳️ https://emralddomain.org *(launching soon)*  
 
 ---
 
