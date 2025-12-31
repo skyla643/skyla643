@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/skyla643/scanon-ai-video-announcment/main/06EFF773-A6FB-40F1-ABF0-BE84AD98CAAC.PNG" 
+    alt="Scanon.ai Video Face Blurring Announcement"
+    width="100%"
+  />
+</p>
+
 <h2 align="center" style="color:#7B1E1E;">
   🚨 SCANON IS NOW LIVE — DESKTOP + WEB APP LAUNCHED! 🚨
 </h2>
