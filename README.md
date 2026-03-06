@@ -1,175 +1,60 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/skyla643/scanon-ai-video-announcment/main/06EFF773-A6FB-40F1-ABF0-BE84AD98CAAC.PNG" 
-    alt="Scanon.ai Video Face Blurring Announcement"
-    width="600"
-  />
-</p>
+# Hey, I'm Skyla — SMRCCC3301
 
-<h2 align="center" style="color:#7B1E1E;">
-  🚨 SCANON IS NOW LIVE — DESKTOP + WEB APP LAUNCHED! 🚨
-</h2>
+Hello everyone. I know a lot of you have been following me for a while, and maybe you know me from my grey hat hacker days. I wanted to thank all of you for 500 — this is an amazing milestone. As a creator and an engineer, I make dreams come true. The fact that I am reaching mine has me ecstatic.
 
-<p align="center">
-  <strong>Privacy without compromise. Available wherever you need it.</strong><br><br>
-  
-  🖥️ <strong>DESKTOP BETA AVAILABLE NOW</strong><br>
-  Fully offline, zero cloud dependency — built for journalists, investigators, and human rights defenders.<br>
-  <a href="https://drive.google.com/file/d/1MvQVQREuIaiiOzU533fDKgpM7NxAgUlS/view?usp=sharing" target="_blank"><strong>→ Download Scanon Desktop (Windows)</strong></a><br><br>
-  
-  🌐 <strong>WEB APP LAUNCHED</strong><br>
-  Instant anonymization in your browser — no installation required.<br>
-  <a href="https://scanon.ai" target="_blank"><strong>→ Launch Scanon Web App</strong></a><br><br>
-  
-  📡 <strong>API COMING SOON</strong> — for automated and large-scale anonymization.<br>
-  Mac + Linux desktop releases are in development.
-</p>
+I wanted to update all of you on my projects. I am not a kid anymore. As many of you may know, I have been creating since middle school, and I am now a grown adult. So I now have to focus on what is most important.
 
 ---
 
-<h2 align="center" style="color:#00A86B;">
-  🌐 EMRALD.TECH IS NOW LIVE — OUR DOMAIN HAS AWAKENED 🌐
-</h2>
+## ScanOn.ai
 
-<p align="center">
-  <strong>Emrald Technologies</strong> now stands fully autonomous.<br>
-  Our new home: <a href="https://emrald.tech" target="_blank"><strong>https://emrald.tech</strong></a>.<br><br>
+Right now, I am proud to announce that the ScanOn web app is almost complete and nearing a public launch.
 
-  This moment is the embodiment of a vision:<br>
-  <em>autonomy, ethics, and beauty through discipline.</em><br><br>
+I want to thank our amazing CEO, [Axel](https://github.com/UnlimitedCoverageCybersecurity), for helping us move forward and keeping us in shape. When creating, it is very important to have a CEO that pushes and instructs like a true leader. Our two devs, [kp18-cpu](https://github.com/kp18-cpu) and [PRANAW2004](https://github.com/PRANAW2004), have pushed us even further.
 
-  Thank you to everyone who stood with us through the dark.<br>
-  <strong>The Age of Emrald has begun.</strong> ⚔️
-</p>
+ScanOn is currently in a stage where we are searching for VC funding. If you believe in what we're building, please reach out:
+
+- info@scanon.ai
+- axel@scanon.ai
+
+You can try the web app now at [scanon.ai](https://www.scanon.ai). At the moment, ScanOn supports image facial blurring and metadata removal. Video support is coming soon — and you will be the first to know when it arrives.
 
 ---
 
-<h3 align="center" style="color:#00A86B;">
-  Welcoming <strong>Charlie Barnes</strong> — Chief Operating Officer of Emrald
-</h3>
+## Emrald
 
-<p align="center">
-  His discipline and operational precision define the Emrald ethos.<br>
-  Follow his work → <a href="https://www.instagram.com/clabarness?igsh=MnJhNTkybHc4M2Zr" target="_blank">@clabarness</a>
-</p>
+As many of you may know, especially if you have followed the publicity, I have been building [Emrald](https://emrald.tech) since I was in a tech program sophomore year of high school. In order to accommodate ScanOn, I will be pulling Emrald to the side. I need to focus on one thing at a time.
 
----
+These are things that are so near and dear to me. Like when I was creating [HackerOS](https://skyla643.github.io/HACKEROS-NEW/) — these things will remain archived on my page. This allows me, and you as the viewer, to take a trip down memory lane whenever you'd like.
 
-<h1 align="center" style="font-family:'Cinzel', serif; color:#00A86B; font-size: 3.2em;">
-  🛡️ EMRALD TECHNOLOGIES — <em>Si vis pacem, para bellum</em> 🛡️
-</h1>
+I also want to thank any past clients I have done work for — you will be missed, and I urge you to stay in touch.
 
-<p align="center">
-  <a href="https://discord.gg/Qy7SA9bDEy">
-    <img src="https://img.shields.io/discord/1234567890?logo=discord&label=Join%20the%20Syndicate&color=7B1E1E&style=for-the-badge">
-  </a>
-  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
-    <img src="https://img.shields.io/badge/SHOP_EMRALDTECH-Limited%20Drops-%237B1E1E?style=for-the-badge">
-  </a>
-  <a href="#-funding--strategic-partners">
-    <img src="https://img.shields.io/badge/FUNDING%20ACTIVE-%F0%9F%92%B8-critical?style=for-the-badge&color=red">
-  </a>
-</p>
+[emrald.tech](https://emrald.tech) will eventually be turned into something cooler when I get the funds to move to a new domain. I have also had visions of turning Emrald into **Noctis Vault** — some of you may have seen that announcement a while ago. But starting a company takes practice, and being realistic means understanding that I need some skin in the game before I launch or change companies or create new entities.
 
-<p align="center">
-  <em>"You can't enslave a mind that has refused to be indexed."</em><br>
-  — <strong>Emrald Manifesto</strong>
-</p>
+All Emrald tools, repos, and the website will remain up — but for the moment will not be updated or continued.
 
 ---
 
-## 🎯 Mission
-Emrald builds **privacy-first cyber tools** for journalists, operators, human rights defenders, and anyone who must remain untraceable.  
-We don’t ask permission.  
-We don’t leave traces.  
+## What's Next — Obsidian
 
-> **Peace by readiness. Readiness by mastery.**
+I won't completely stop creating. I plan to build an AI called **Obsidian**.
 
----
+Obsidian is not just any AI. It uses quantum and the void. The notion that nothing is in the void when we come from it is a mere trick of the light — like changing a photon by looking at it. Everything flows naturally when you aren't looking, and even scientifically, when you look and acknowledge, you change what is there. I think, therefore I am.
 
-## 🏛 The Five Pillars of Emrald  
-> *Instrumenta Operis* — "Instruments of the Work"
-
-Each pillar is an interoperable tool — a weapon in a larger arsenal.
-
-- 🧿 **Solomonic Protocol** — Ritual terminal for red/blue team simulation. Summon (offense). Consult (defense). Logged in an encrypted grimoire.  
-- 📖 **The Hacker's Book** — Collaborative cyber range: IDE, CTFs, forums, gamified certifications.  
-- 🖥 **Love & Havoc** — Hardened SSH configs, deception honeypots, OSINT utilities for secure comms and forensic acquisition.  
-- 🛡 **Hacker OS USB** — Bootable offline OS with forensics, IR, and pentesting tools. Field-ready and CE-compliant.  
-- ⛪ **Cathedral** — Tamper-proof archive for preserving sensitive knowledge under censorship or attack.
+I am tuning this as we speak. Until I have the funds to get a new domain, you can follow any advancements at [emrald.tech](https://emrald.tech).
 
 ---
 
-## 🤝 Strategic Alliance: Unlimited Coverage × Emrald
+## Gratitude
 
-A long-term alliance combining operational precision with engineering discipline.
+I want to thank every mentor I've had — programs like [DAE](https://mydae.org/what-is-dae/skills-development), Synchrony, and everyone in between. If you look me up publicly, you may see who my day ones were and who helped me get here. I owe this ovation, because if it weren't for all of you, I would not be here and I would have never pushed myself.
 
-### Flagship Collaboration: **Scanon.ai**
-A high-performance anonymization engine that detects and erases:
+Community is important, and this isn't goodbye — it is a short pause to make sure ScanOn.ai gets to where it needs to be.
 
-- 🧑 Faces  
-- 🧩 Tattoos  
-- 🚘 License Plates  
+I have been in the field since high school — hacking, creating, and finding my autonomy as a creator, engineer, and grey hat. This is extremely emotional to me, and I feel like I owe Emrald as a testament to my day ones.
 
-—all without cloud dependence, metadata leakage, or external processing.
+This isn't goodbye. Stay tuned for what's to come.
 
-📆 **Beta Launched:** 2025  
-🔗 Join the Scanon Syndicate: https://discord.gg/Qy7SA9bDEy  
-📥 Contact: **info@scanon.ai** | **Emrald_Technologies3301@proton.me**
+Because I love you so.
 
----
-
-## 🔭 Looking Ahead
-
-Our joint roadmap focuses on:
-
-- Privacy-preserving workflows for investigative journalism and digital evidence  
-- Scalable anonymization solutions for enterprise, NGO, and public-sector deployments  
-- Next-generation cybersecurity tools built from real operational experience  
-- API integration + automation layers for high-volume redaction pipelines  
-
-📡 Founder Account:  
-- [@thee_emraldtech](https://www.instagram.com/thee_emraldtech/)
-
----
-
-## 💼 Funding & Strategic Partners
-
-**Funding Goal (2025–2026):** €300K Seed  
-**Use of Funds:**  
-- Solomonic Protocol & Cathedral pilots with SOCs, MSSPs, and universities  
-- Expansion of Scanon.ai deployments for institutional partners  
-- Security audits, CE compliance, and engineering contractor support  
-
-📥 Investor access: **info@scanon.ai**
-
----
-
-## 🛍️ Support the Mission
-
-<p align="center">
-  <a href="https://www.etsy.com/shop/Emraldtech?ref=dashboard-header">
-    <img src="https://img.shields.io/badge/SHOP%20NOW-EMRALDTECH%20-%237B1E1E?style=for-the-badge">
-  </a>
-</p>
-
-Limited hardware drops, lore releases, stickers, shields, and tools — built for the field and for those who operate in the dark.
-
-🛒 https://www.etsy.com/shop/Emraldtech
-
----
-
-## 👤 About Me
-**Skyla Reyes** — Grey Hat Hacker • CEO of Emrald Technologies  
-
-I build systems for those who vanish by design.  
-
-📫 **Emrald_Technologies3301@proton.me**  
-🔗 [LinkedIn – Skyla Miranda Reyes](https://www.linkedin.com/in/skylamirandareyes-a99b781b4/)
-
----
-
-<p align="center">
-  <em>SI VIS PACEM, PARA BELLUM</em><br>
-  © Emrald Technologies
-</p>
+**— Skyla**
