@@ -27,7 +27,7 @@ As many of you may know, especially if you have followed the publicity, I have b
 
 These are things that are so near and dear to me. Like when I was creating [HackerOS](https://skyla643.github.io/HACKEROS-NEW/) — these things will remain archived on my page. This allows me, and you as the viewer, to take a trip down memory lane whenever you'd like.
 
-I also want to thank any past clients I have done work for — you will be missed, and I urge you to stay in touch.
+I also want to thank any past friends I have done projects with — you will be missed, and I urge you to stay in touch.
 
 [emrald.tech](https://emrald.tech) will eventually be turned into something cooler when I get the funds to move to a new domain. I have also had visions of turning Emrald into **Noctis Vault** — some of you may have seen that announcement a while ago. But starting a company takes practice, and being realistic means understanding that I need some skin in the game before I launch or change companies or create new entities.
 
